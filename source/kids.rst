@@ -1,84 +1,46 @@
-Kids Movies
+**Kids Films**
+================
 
-This Is Habb Movies
-=========================
+Looking for a film that blow you away with huge explosions, extravagant cars, and knock down drag out fights? From your favorite superhero film to the summer blockbuster explosion-stravaganza HAAB has you covered!
 
-Ok, here's my sample chapter.
 
-This is another paragraph because of the blank line.
+See our Selection below:
 
-This
-is
-all
-one paragraph. Because there
-is
-no blank
-line.
++------------+------------+----------+-----------+---------+
+| Film Title | Year       | MPAA     | Run Time  | HAAB    |
+|            | Released   | Rating   |           | Review  |
++============+============+==========+===========+=========+
+| Cars 3     | 2017       | R        | 1hr 52min | 8/10    |
++------------+------------+----------+-----------+---------+
+| Moana      | 2014       | PG-13    | 2hr 16min | 9/10    |
++------------+------------+----------+-----------+---------+
+| Frozen     | 1998       | R        | 2hr 33min | 8/10    |
++------------+------------+----------+-----------+---------+
 
-Here I use *one* paire of asterisks for italics.
-
-I can use **two** pairs of asterisks for bold.
-
-Like lists?
-
-* Start a list with an asterisk.
-* Each item gets one.
-* Most common mistake, if you need two lines
-  don't forget to indent the second line.
-
-  * You can have a list in a list too.
-  * Don't forget a blank line between the lists
-
-* Done with lists.
-
-Heading Level 1
----------------
-
-You can create headings with - and = and ~ underlines.
-
-You can create a link by doing `Simpson`_ something like this.
-
-.. _Simpson: http://simpson.edu
-
-You can do sample code easily:
-
-.. code-block:: python
-    :linenos:
-    :caption: Sample Code
-
-    # Sample program
-    print("Hello")
-
-You can make ``monospaced text`` if you surround them with two back-ticks. Back-ticks are the
-weird quote thing in the upper-left on your keyboard.
-
-You can include an image by:
-
-.. image:: my_image.png
-    :width: 50%
-
-Or a labeled image:
-
-.. figure:: my_image.png
-    :width: 50%
-
-    This is my image caption.
-
-Kids Movies
+Moana (2017)
 ------------
+.. image:: moana.jpg
+    :width: 50%
 
-============ =================
-Movie        Year
-============ =================
-Disney            ``***``
-Marvel           ``*****``
-Warner Bros       ``***``
-        ``****``
-Orange       ``**``
-Cherries     ``*``
-============ =================
+*Description:*
+~~~~~~~~~~~~~~
 
-There are several ways of doing sample tables. The most frequent issue
-that people have when making tables is mixing tabs and spaces. In Sublime,
-if you select the text of a table, you can see tabs look differently than
-spaces. Always use spaces, never tabs.
+Girl fights the ocean and leaves her family to save the island.
+
+**Starring:** Dwayne Johnson, Auli'i Cravalho, Jemaine Clement, Nichole Scherzinger, Temuera Morrison.
+
+
+**Run Time:** 1hr 47min
+
+**MPAA Rating:** Rated PG
+
+
+Check out the trailer for `Mona`_ !
+
+.. _Mona: https://www.youtube.com/watch?v=LKFuXETZUsI
+
+**If you like Moana you may also like:**
+
+* Coco
+* Finding Nemo
+* Minions
