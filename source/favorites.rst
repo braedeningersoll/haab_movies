@@ -26,3 +26,13 @@ Differences                    Similarities
 
 Here is a website going into more detail of how the two films
 differ: .. _Beauty and the Beast: http://time.com/4702119/beauty-and-the-beast-differences-original-version/
+
+Why the 2017 Version Was So Good
+--------------------------------
+
+Disney did an excellent job making the 2017 version of Beauty and
+the Beast new and fresh all while keeping the same classic story.
+The CGI, acting, and music were all fantastic. My favorite new 
+aspect of this film was how funny it was. I was not expecting
+there to be that much humor in it but I was happily surprised.
+I would definitely recommend this film to people of all ages. 
