@@ -15,13 +15,13 @@ See our Selection below:
 +--------------------------------------------------+------------+----------+-----------+---------+
 
 cd
-**Transformers (2017)**
------------------------
+Transformers (2017)
+-------------------
 .. image:: transformers_last_knight.jpg
 :width: 50%
 
-*Description:*
-~~~~~~~~~~~~~~
+Description:
+~~~~~~~~~~~~
 
 The war between the Autobots and the Decpticons rages on though now without the command of the Autobot leader, Optimus Prime. As the secrets of the Transformers long history with earth are revealed, with there still be time to save the earth from total destruction? 
 

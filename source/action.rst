@@ -18,13 +18,13 @@ See our Selection below:
 +-------------------------------------+------------+----------+-----------+---------+
 
 
-**Baby Driver (2017)**
-----------------------
+Baby Driver (2017)
+------------------
 .. image:: baby_driver.jpg
     :width: 50%
 
-*Description:*
-~~~~~~~~~~~~~~
+Description:
+~~~~~~~~~~~~
 
 When talented driver, Baby (Ansel Elgort), is forced into a string of robberies as the getaway driver, music becomes both his inspiration for his fanatic driving, as well as, his only escape from the shady life he leads. That is until he meets Debora (Lily James), a simple sweet waitress that could be the very key to convincing Baby to fianlly leave his old road behind. 
 
