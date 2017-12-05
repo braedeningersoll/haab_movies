@@ -14,11 +14,11 @@ See our Selection below:
 | Transformers: The Last Knight                    | 2017       | PG-13    | 2hr 29min | 2/10    |
 +--------------------------------------------------+------------+----------+-----------+---------+
 
-
+cd
 **Transformers (2017)**
 -----------------------
 .. image:: transformers_last_knight.jpg
-    :width: 50%
+:width: 50%
 
 *Description:*
 ~~~~~~~~~~~~~~

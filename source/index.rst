@@ -10,11 +10,27 @@ Welcome to HAAB Movies's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   about
+   action
+   comedy
+   favorites
+   holiday
+   hollys_faves
+   horror
+   kids
+   location
+   new_releases
+   prices
+   videogames
+
 
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+
+
+
+
+
+

@@ -1,5 +1,5 @@
-**Action Films**
-================
+Action Films
+============
 
 Looking for a film that blow you away with huge explosions, extravagant cars, and knock down drag out fights? From your favorite superhero film to the summer blockbuster explosion-stravaganza HAAB has you covered!
 

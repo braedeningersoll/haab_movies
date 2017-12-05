@@ -1,5 +1,5 @@
-**About HAAB Movies**
-=====================
+About HAAB Movies
+=================
 
 HAAB Movies is a one-stop shop for DVD, Blu-Ray, and even classic VHS movie rentals! Though our business be small it is fierce in its commitment to serving the Greater Des Moines area! What makes us stand apart from your normal Movie rental business is our variety in selection over not just titles but even in the media forms such as DVD, Blu-Ray, and VHS. Also a portion of our proceeds are in turn used to fund independent film makers here in the heart of Iowa! We hope you also find our in house reviews from average Joes and Jane rather than prestigious film critics that look at films in an entirely different way, to be helpful in making your selection!
 
