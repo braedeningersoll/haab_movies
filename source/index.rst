@@ -12,6 +12,9 @@ Welcome to HAAB Movies's documentation!
 
    about
    action
+   angelapicks
+   braedens_favorites
+   contact
    comedy
    favorites
    holiday
@@ -21,6 +24,7 @@ Welcome to HAAB Movies's documentation!
    location
    new_releases
    prices
+   romance
    videogames
 
 
