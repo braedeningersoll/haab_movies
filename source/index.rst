@@ -13,9 +13,13 @@ Welcome to HAAB Movies's documentation!
    about
    action
    angelapicks
+<<<<<<< HEAD
    braedens_favorites
    contact
+=======
+>>>>>>> 8f6386ddc847b61b72105e870d28cfa10d7b2e06
    comedy
+   contact
    favorites
    holiday
    hollys_faves
