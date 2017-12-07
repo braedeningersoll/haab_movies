@@ -48,7 +48,11 @@ Dead Alliance
 .. figure:: images/dead.jpg
     :width: 50%
 
-    Only on Playstation.
+    Only on Playstation.\
+
+
+LEGO 
+~~~~~~~~~~~
 
 
 
