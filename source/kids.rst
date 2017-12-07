@@ -4,21 +4,23 @@
 
 See our Selection below:
 
-+------------+------------+----------+-----------+---------+
-| Film Title | Year       | MPAA     | Run Time  | HAAB    |
-|            | Released   | Rating   |           | Review  |
-+============+============+==========+===========+=========+
-| Cars 3     | 2017       | G        | 1hr 49min | 7/10    |
-+------------+------------+----------+-----------+---------+
-| Moana      | 2016       | PG       | 1hr 43min | 9/10    |
-+------------+------------+----------+-----------+---------+
-| Frozen     | 2013       | PG       | 1hr 42min | 8/10    |
-+------------+------------+----------+-----------+---------+
++-------------------+------------+----------+-----------+---------+
+| Film Title        | Year       | MPAA     | Run Time  | HAAB    |
+|                   | Released   | Rating   |           | Review  |
++===================+============+==========+===========+=========+
+| :ref:`Cars3`      | 2017       | G        | 1hr 49min | 7/10    |
++-------------------+------------+----------+-----------+---------+
+| :ref:`Mo`         | 2016       | PG       | 1hr 43min | 9/10    |
++-------------------+------------+----------+-----------+---------+
+| :ref:`Froz`       | 2013       | PG       | 1hr 42min | 8/10    |
++-------------------+------------+----------+-----------+---------+
 
 
 
-Cars3 (2017)
-------------
+.. _Cars3:
+
+Cars 3 
+------
 .. image:: images/cars3.jpg
     :width: 50%
 
@@ -42,9 +44,9 @@ Nathan Fillion, Lea DeLaria, Armie Hammer, Bonnie Hunt.
 **MPAA Rating:** Rated G
 
 
-Check out the trailer for `Cars3`_ !
+Check out the trailer for `Cars 3`_ !
 
-.. _Cars3: https://www.youtube.com/watch?v=2LeOH9AGJQM
+.. _Cars 3: https://www.youtube.com/watch?v=2LeOH9AGJQM
 
 **If you like Cars 3 you may also like:**
 
@@ -52,8 +54,10 @@ Check out the trailer for `Cars3`_ !
 * Finding Nemo
 * Toy Story
 
-Moana (2016)
-------------
+.. _Mo:
+
+Moana
+-----
 .. image:: images/moana.jpg
     :width: 50%
 
@@ -82,9 +86,9 @@ Nichole Scherzinger, Temuera Morrison, Racheal House.
 **MPAA Rating:** Rated PG
 
 
-Check out the trailer for `Mona`_ !
+Check out the trailer for `Moana`_ !
 
-.. _Mona: https://www.youtube.com/watch?v=LKFuXETZUsI
+.. _Moana: https://www.youtube.com/watch?v=LKFuXETZUsI
 
 **If you like Moana you may also like:**
 
@@ -92,8 +96,11 @@ Check out the trailer for `Mona`_ !
 * Zootopia
 * Mulan
 
-Frozen (2013)
--------------
+
+.. _Froz:
+
+Frozen
+------
 .. image:: images/frozen.jpg
     :width: 50%
 
