@@ -24,3 +24,21 @@ Distributed by                     ``Universal Pictures``
 Release Date                       ``June 14, 2017``
 Box office                         ``$137 million``
 ===============================  =================================
+
+
+Crash Pad
+~~~~~~~~~~~~
+
+.. figure:: images/crash.jpg
+    :width: 50%
+
+    Only on Playstation.
+
+Despicable Me 3
+~~~~~~~~~~~~~~~~~~
+
+
+.. figure:: images/despicable.jpg
+    :width: 50%
+
+    Only on Playstation.
