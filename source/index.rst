@@ -30,11 +30,6 @@ Welcome to HAAB Movies's documentation!
 
 
 
-Indices and tables
-==================
-
-
-
 
 
 
