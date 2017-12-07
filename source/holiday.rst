@@ -1,7 +1,8 @@
 Holiday Films
 =============
 
-Are you looking for some cozy holiday movies to watch with the family? Look no further, HAAB's got you covered!
+Are you looking for some cozy holiday movies to watch with the family? Look no
+further, HAAB's got you covered!
 
 See our Selection below:
 

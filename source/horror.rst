@@ -19,19 +19,19 @@ See our Selection below:
 +-------------------------------------+------------+----------+-----------+---------+
 
 IT (1990)
-------------------
+----------
 .. image:: it.jpg
     :width: 50%
 
 Description:
 ~~~~~~~~~~~~
 
-It's 1960, seven pre-teen outcasts have to fight an evil-demon who is pretending to
-be a clown, killing children. They return thirty years later to stop this evil creature
-once and for all when it returns to their hometown.
+It's 1960, seven pre-teen outcasts have to fight an evil-demon who is pretending
+to be a clown, killing children. They return thirty years later to stop this
+evil creature once and for all when it returns to their hometown.
 
 
-**Starring:** Richard Thomas, Tim Reid, and Annette O'Toole 
+**Starring:** Richard Thomas, Tim Reid, and Annette O'Toole
 
 **Directed by:** Tommy Lee Wallace
 
@@ -50,7 +50,7 @@ Check out the trailer for `IT`_ !
 * Creepers Jeepers
 
 The Conjuring (2013)
-------------------
+--------------------
 .. image:: conjuring.jpg
     :width: 50%
 
@@ -58,10 +58,10 @@ Description:
 ~~~~~~~~~~~~
 
 It's 1970, paranomal investigators and demonologists Lorrain (Vera Farmiga)
-and Ed (Patrick Wilson) Warren are called to the home of the Perron Family. The 
+and Ed (Patrick Wilson) Warren are called to the home of the Perron Family. The
 Perrons and their daughters have recently moved into a secluded farmhouse where
 paranormal occurrences have taken place. The Warrens soon discover the house's
-grim history. 
+grim history.
 
 
 **Starring:** Vera Farmiga, Patrick Wilson, Lili Taylor, and Ron Livingston.
@@ -85,16 +85,17 @@ Check out the trailer for `The Conjuring`_ !
 * Insidious
 
 Carrie (1976)
-------------------
+-------------
 .. image:: carrie.jpg
     :width: 50%
 
 Description:
 ~~~~~~~~~~~~
 
-Carrie White (Sissy Spacek), a shy and friendless high school girl has grown up 
+Carrie White (Sissy Spacek), a shy and friendless high school girl has grown up
 being sheltered by her abusive, religious and domineering mother. One day she
-unleashes telekinetic powers after an humiliating incident at her high school prom.
+unleashes telekinetic powers after an humiliating incident at her high school
+prom.
 
 **Starring:** Sissy Spacek, Piper Laurie, and Amy Irving.
 
