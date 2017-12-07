@@ -19,7 +19,7 @@ See our Selection below:
 
 Cars3 (2017)
 ------------
-.. image:: cars3.jpg
+.. image:: images/cars3.jpg
     :width: 50%
 
 *Description:*
@@ -54,7 +54,7 @@ Check out the trailer for `Cars3`_ !
 
 Moana (2016)
 ------------
-.. image:: moana.jpg
+.. image:: images/moana.jpg
     :width: 50%
 
 *Description:*
@@ -94,7 +94,7 @@ Check out the trailer for `Mona`_ !
 
 Frozen (2013)
 -------------
-.. image:: frozen.jpg
+.. image:: images/frozen.jpg
     :width: 50%
 
 *Description:*

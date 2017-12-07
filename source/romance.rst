@@ -17,7 +17,7 @@ See our Selection below:
 
 Everything, Everything (2017)
 -----------------------------
-.. image:: everything.jpg
+.. image:: /images/everything.jpg
     :width: 50%
 
 *Description:*
@@ -52,7 +52,7 @@ Check out the trailer for `Everything`_ !
 
 Beauty and the Beast (2017)
 ---------------------------
-.. image:: beauty.jpg
+.. image:: images/beauty.jpg
     :width: 50%
 
 *Description:*
@@ -89,7 +89,7 @@ Check out the trailer for `Beauty and the Beast`_ !
 
 Fifty Shades Darker (2017)
 --------------------------
-.. image:: fifty.jpg
+.. image:: images/fifty.jpg
     :width: 50%
 
 *Description:*

@@ -8,7 +8,7 @@ the summer blockbuster explosion-stravaganza HAAB has you covered!
 
 How to Lose a Guy in 10 Days (2017)
 -----------------------------------
-.. image:: lose.jpg
+.. image:: images/lose.jpg
     :width: 50%
 
 *Description:*
