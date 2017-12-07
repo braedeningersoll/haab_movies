@@ -1,4 +1,4 @@
-Our favorites
+Addie's favorites
 =============
 
 Welcome to my favorites page. 
@@ -24,8 +24,12 @@ Differences                    Similarities
 2017: New songs              ``Beast traps Bell``
 ==========================  ==================================
 
-Here is a website going into more detail of how the two films
-differ: .. _Beauty and the Beast: http://time.com/4702119/beauty-and-the-beast-differences-original-version/
+
+Here is a website going into more detail of how the two `Beauty and the Beast`_ 
+ films differ.
+
+.. _Beauty and the Beast: http://time.com/4702119/beauty-and-the-beast-differences-original-version/
+
 
 Why the 2017 Version Was So Good
 --------------------------------
