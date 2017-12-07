@@ -6,47 +6,162 @@ Looking for a film that blow you away with huge explosions, extravagant cars, an
 
 See our Selection below:
 
-+-------------------------------------+------------+----------+-----------+---------+
-| Film Title                          | Year       | MPAA     | Run Time  | HAAB    |
-|                                     | Released   | Rating   |           | Review  |
-+=====================================+============+==========+===========+=========+
-| Baby Driver                         | 2017       | R        | 1hr 52min | 8/10    |
-+-------------------------------------+------------+----------+-----------+---------+
-| Captain America: The Winter Soldier | 2014       | PG-13    | 2hr 16min | 9/10    |
-+-------------------------------------+------------+----------+-----------+---------+
-| Saving Private Ryan                 | 1998       | R        | 2hr 33min | 8/10    |
-+-------------------------------------+------------+----------+-----------+---------+
++-----------------------------------------------+------------+----------+-----------+---------+
+| Film Title                                    | Year       | MPAA     | Run Time  | HAAB    |
+|                                               | Released   | Rating   |           | Review  |
++===============================================+============+==========+===========+=========+
+| The Dark Knight                               | 2008       | PG-13    | 2hr 32min | 9/10    |
++-----------------------------------------------+------------+----------+-----------+---------+
+| The Empire Strikes Back                       | 1980       | PG       | 2hr 4min  | 8/10    |
++-----------------------------------------------+------------+----------+-----------+---------+
+| Raiders of the Lost Ark                       | 1981       | PG       | 1hr 55min | 8/10    |
++-----------------------------------------------+------------+----------+-----------+---------+
+| The Lord of The Rings: The Return of the King | 2003       | PG-13    | 3hr 21min | 8/10    |
++-----------------------------------------------+------------+----------+-----------+---------+
+| Saving Private Ryan                           | 1998       | R        | 2hr 49min | 8/10    |
++-----------------------------------------------+------------+----------+-----------+---------+
 
-
-Baby Driver (2017)
-------------------
-.. image:: baby_driver.jpg
+The Dark Knight (2008)
+----------------------
+.. image:: /images/dark_knight.jpg
     :width: 50%
 
 Description:
 ~~~~~~~~~~~~
 
-When talented driver, Baby (Ansel Elgort), is forced into a string of robberies as the getaway driver, music becomes both his inspiration for his fanatic driving, as well as, his only escape from the shady life he leads. That is until he meets Debora (Lily James), a simple sweet waitress that could be the very key to convincing Baby to fianlly leave his old road behind. 
+In the criminal underworld of Gotham, a new name has come to town. The Joker (Heath Ledger) is the force of chaos personified to combat Batman's (Christian Bale) force of Justice. What this seeming trickster lacks in subtlty, he makes up for in his ingenious plans to push the Caped Crusader to the breaking point.
 
-**Starring:** Ansel Elgort, Kevin Spacey, Lily James, Lily James, Jon Bernthal, Eliza Gonzalez, John Hamm, and Jamie Foxx.
+**Starring:** Christian Bale, Heath Ledger, Aaron Eckhart
 
-**Directed by:** Edgar Wright
+**Directed by:** Christopher Nolan
 
-**Producer:** Big Talk Productions & Working Title Films
+**Run Time:** 2hr 32min
 
-**Run Time:** 1hr 52min
+**MPAA Rating:** Rated R, Violence & Menace.
 
-**MPAA Rating:** Rated R, Violence & Adult Language throughout
 
-**HAAB Review:** Baby driver is an intense adventure of cars, hesits, love, and music. In terms of action sequencing, the scenes with Baby maneuvering in and out of heavy traffic in spectacular driving stunts are a wonder to behold and thrilling throuh every bend and turn. The acting, for the most part, is immaculate. John Hamm delivers a chest tightening performance in the film's second act which more than makes up for Ansel Elgort's wavering southern accent. Elgort does, however, create a fleshed out Baby that is very human in his flaws though admirable in character. If you need one single reason to see this film then look no further than the soundtrack. The score is comprised of classic tunes and incredible remixes that make the film simply fun to listen to. The opening sequence of the film combines this energetic score with artistic cinematography that evereyone should have the chance to see! 
+Check out the trailer for `The Dark Knight`_ !
 
-Check out the trailer for `Baby Driver`_ !
+.. _The Dark Knight: https://www.youtube.com/watch?v=_PZpmTj1Q8Q
 
-.. _Baby Driver: https://www.youtube.com/watch?v=z2z857RSfhk
+**If you like The Dark Knight you may also like:**
 
-**If you like Baby Driver you may also like:**
+* Batman Begins
+* The Dark Knight Rises
+* Inception
 
-* Guardians of the Galaxy
-* Scott Pilgrim vs. The World
-* Atomic Blonde
+The Empire Strikes Back (1980)
+------------------------------
+.. image:: /images/empire_strikes_back.jpg
+    :width: 50%
 
+Description:
+~~~~~~~~~~~~
+
+Though the Death Star has been destroyed the Empire is far from overthrown. They still scour the galaxy looking to snuff out the Rebel Alliance. Luke has not forgetten his master Obi-wan and seeks to further his Jedi training with another refugee Jedi, all the while being hunted by Darth Vader.
+
+**Starring:** Mark Hamill, Harrison Ford, Carrie Fisher, 
+
+**Directed by:** Irvin Kershner
+
+**Run Time:** 2hr 4min
+
+**MPAA Rating:** Rated PG, Sci-Fi Action Violence.
+
+
+Check out the trailer for `The Empire Strikes Back`_ !
+
+.. _The Empire Strikes Back: https://www.youtube.com/watch?v=96v4XraJEPI
+
+**If you like The Empire Strikes Back you may also like:**
+
+* Star Wars (Episode IV: A New Hope)
+* Star Wars Episode VII: The Force Awakens
+* Raiders of The Lost Ark
+
+Raiders of the Lost Ark (1981)
+------------------------------
+.. image:: /images/raiders_lost_ark.jpg
+    :width: 50%
+
+Description:
+~~~~~~~~~~~~
+
+Professor and archaeologist Indiana Jones is hired by the US Government to uncover and collect the Ark of the Covenant before the Nazis can get their hands on the artifact for their own nefarious purposes.
+
+**Starring:** Harrison Ford, Karen Allen, Paul Freeman 
+
+**Directed by:** Steven Spielberg
+
+**Run Time:** 1hr 55min
+
+**MPAA Rating:** Rated PG, none given.
+
+
+Check out the trailer for `Raiders of the Lost Ark`_ !
+
+.. _Raiders of the Lost Ark: https://www.youtube.com/watch?v=XkkzKHCx154
+
+**If you like Raiders of the Lost Ark you may also like:**
+
+* Star Wars (Episode IV: A New Hope)
+* Indiana Jones & The Temple of Doom
+* E.T.
+
+The Lord of the Rings: The Return of the King (2003)
+----------------------------------------------------
+.. image:: /images/return_of_the_king.jpg
+    :width: 50%
+
+Description:
+~~~~~~~~~~~~
+
+Based off the final portion of J.R.R Tolkien's epic; *The Lord of the Rings*, the quest to destroy the one ring and bring peace back to Middle Earth continues. The fellowship has been separated among two factions. Sam and Frodo continue their march to Mount Doom to destroy the ring, while Legolas, Aragorn, Gandalf, and Gimli try to fend off the servants of Sauron and protect the city of Gondor.
+
+**Starring:** Elijah Wood, Viggo Mortenson, Ian McKellen 
+
+**Directed by:** Peter Jackson
+
+**Run Time:** 3hr 21min
+
+**MPAA Rating:** Rated PG-13, Intense Battle Sequences an Frightening Images.
+
+
+Check out the trailer for `The Lord of the Rings The Return of the King`_ !
+
+.. _The Lord of the Rings The Return of the King: https://www.youtube.com/watch?v=r5X-hFf6Bwo
+
+**If you like The Lord of the Rings: The Return of the King you may also like:**
+
+* The Lord of the Rings: Fellowship of the Ring
+* Conan the Barbarian
+* District 9
+
+Saving Private Ryan (1998)
+--------------------------
+.. image:: /images/saving_private_ryan.jpg
+    :width: 50%
+
+Description:
+~~~~~~~~~~~~
+
+Based of an increible true story, following the events of D-Day: Normany, a young soldier has earned the right to go home under the Sole Survivor Policy after losing his brothers in the war. Captain Miller (Tom Hanks), has been assigned to track down and find Private Ryan (Matt Damon) and bring him home despite the waging war surrounding them all.
+
+**Starring:** Tom Hanks, Matt Damon, Tom Sizemore
+
+**Directed by:** Steven Spielberg
+
+**Run Time:** 2hr 49min
+
+**MPAA Rating:** Rated R, Intense Graphically Realistic Violence an Adult Language
+
+
+Check out the trailer for `Saving Private Ryan`_ !
+
+.. _Saving Private Ryan: https://www.youtube.com/watch?v=RYID71hYHzg
+
+**If you like Saving Private Ryan you may also like:**
+
+* Dunkirk
+* Forrest Gump
+* Schindler's List
