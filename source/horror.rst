@@ -39,7 +39,7 @@ evil creature once and for all when it returns to their hometown.
 
 **MPAA Rating:** Rated R, Violence & Adult Language throughout
 
-Check out the trailer for `IT`_ !
+Check out the trailer for `IT`_
 
 .. _IT: https://www.youtube.com/watch?v=k10ETZ41q5o
 
@@ -74,7 +74,7 @@ grim history.
 
 **MPAA Rating:** Rated R, Violence & Adult Language throughout
 
-Check out the trailer for `The Conjuring`_ !
+Check out the trailer for `The Conjuring`_
 
 .. _The Conjuring: https://www.youtube.com/watch?v=k10ETZ41q5o
 
@@ -86,7 +86,7 @@ Check out the trailer for `The Conjuring`_ !
 
 Carrie (1976)
 -------------
-.. image:: 
+.. image::
     :width: 50%
 
 Description:
@@ -106,7 +106,7 @@ prom.
 
 **MPAA Rating:** Rated R, Violence & Adult Language throughout
 
-Check out the trailer for `Carrie`_ !
+Check out the trailer for `Carrie`_
 
 .. _Carrie: https://www.youtube.com/watch?v=YuO26oJQLVs
 

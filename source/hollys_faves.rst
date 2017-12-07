@@ -21,7 +21,7 @@ See her Selection below:
 
 Zootopia (2016)
 ---------------
-.. image:: 
+.. image::
     :width: 50%
 
 Description:
@@ -48,7 +48,7 @@ great duo and the running gags in it are just
 a joy. You definitely won't be disappointed in watching this kids' movie!
 
 
-Check out the trailer for `Zootopia`_ !
+Check out the trailer for `Zootopia`_
 
 .. _Zootopia: https://www.youtube.com/watch?v=jWM0ct-OLsM
 
@@ -85,7 +85,7 @@ perfectly. Miyazaki takes us on a journey away from the living and into the
 Japanese spiritual world. The breathtaking art, music and plot line is enough
 to captivate you in a way that most animated films cannot.
 
-Check out the trailer for `Spirited Away`_ !
+Check out the trailer for `Spirited Away`_
 
 .. _Spirited Away: https://www.youtube.com/watch?v=ByXuk9QqQkk
 
@@ -127,7 +127,7 @@ very fitting for all the scenes. The non-stop jokes and humor was also greatly
 appreciated.
 
 
-Check out the trailer for `Guardians of the Galaxy Vol 2`_ !
+Check out the trailer for `Guardians of the Galaxy Vol 2`_
 
 .. _Guardians of the Galaxy Vol 2: https://www.youtube.com/watch?v=duGqrYw4usE
 

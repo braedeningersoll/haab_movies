@@ -20,7 +20,7 @@ See our Selection below:
 
 It's a Wonderful Life (1946)
 ----------------------------
-.. image:: 
+.. image::
     :width: 50%
 
 Description:
@@ -41,7 +41,7 @@ Henry Travers, Beulah Bondi, Frank Faylen, and Ward Bond.
 **MPAA Rating:** Rated PG, parental guidance suggested: some material may not be
 suitable for children.
 
-Check out the trailer for `Its a Wonderful Life`_ !
+Check out the trailer for `Its a Wonderful Life`_
 
 .. _Its a Wonderful Life: https://www.youtube.com/watch?v=LJfZaT8ncYk
 
@@ -72,7 +72,7 @@ human world.
 
 **MPAA Rating:** Rated PG, for some scary images
 
-Check out the trailer for `The Nightmare Before Christmas`_ !
+Check out the trailer for `The Nightmare Before Christmas`_
 
 .. _The Nightmare Before Christmas: https://www.youtube.com/watch?v=wr6N_hZyBCk
 
@@ -101,7 +101,7 @@ bravery, and Christmas spirit.
 
 **MPAA Rating:** Rated G
 
-Check out the trailer for `The Polar Express`_ !
+Check out the trailer for `The Polar Express`_
 
 .. _The Polar Express: https://www.youtube.com/watch?v=TQhRqtt-Fpo
 
