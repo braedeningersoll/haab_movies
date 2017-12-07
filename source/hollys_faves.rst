@@ -21,7 +21,7 @@ See her Selection below:
 
 Zootopia (2016)
 ---------------
-.. image:: /images/zootopia.jpg
+.. image:: 
     :width: 50%
 
 Description:
@@ -60,7 +60,7 @@ Check out the trailer for `Zootopia`_ !
 
 Spirited Away (2001)
 --------------------
-.. image:: /images/spirited_away.jpg
+.. image::
     :width: 50%
 
 Description:
@@ -97,7 +97,7 @@ Check out the trailer for `Spirited Away`_ !
 
 Guardians of the Galaxy Vol. 2 (2017)
 -------------------------------------
-.. image:: /images/guardians2.jpg
+.. image::
     :width: 50%
 
 Description:

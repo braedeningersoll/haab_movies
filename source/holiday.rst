@@ -20,7 +20,7 @@ See our Selection below:
 
 It's a Wonderful Life (1946)
 ----------------------------
-.. image:: wonderful_life.jpg
+.. image:: 
     :width: 50%
 
 Description:
@@ -53,7 +53,7 @@ Check out the trailer for `Its a Wonderful Life`_ !
 
 The Nightmare Before Christmas (1993)
 -------------------------------------
-.. image:: nightmarexmas.jpg
+.. image::
     :width: 50%
 
 Description:
@@ -84,7 +84,7 @@ Check out the trailer for `The Nightmare Before Christmas`_ !
 
 The Polar Express (2004)
 ------------------------
-.. image:: polar_express.jpg
+.. image::
     :width: 50%
 
 Description:

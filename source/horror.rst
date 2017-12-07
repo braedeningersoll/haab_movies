@@ -20,7 +20,7 @@ See our Selection below:
 
 IT (1990)
 ----------
-.. image:: it.jpg
+.. image::
     :width: 50%
 
 Description:
@@ -51,7 +51,7 @@ Check out the trailer for `IT`_ !
 
 The Conjuring (2013)
 --------------------
-.. image:: conjuring.jpg
+.. image::
     :width: 50%
 
 Description:
@@ -86,7 +86,7 @@ Check out the trailer for `The Conjuring`_ !
 
 Carrie (1976)
 -------------
-.. image:: carrie.jpg
+.. image:: 
     :width: 50%
 
 Description:
