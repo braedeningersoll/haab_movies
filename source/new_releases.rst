@@ -1,5 +1,5 @@
-**New Releases**
-================
+New Releases
+============
 
 What's new to DVD & Blu-Ray? HAAB Stays up to date with releases as they come out so you don't have to wait a moment longer to see movies you've been dying to watch.
 

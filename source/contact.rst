@@ -1,5 +1,5 @@
-**Contact Us**
-==============
+Contact Us
+==========
 
 Simpson Student address
 123 Buxton Ave

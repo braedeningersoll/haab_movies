@@ -1,5 +1,5 @@
-**Angela's Favorites**
-======================
+Angela's Favorites
+==================
 
 Looking for a film that blow you away with huge explosions, extravagant 
 cars, and knock down drag out fights? From your favorite superhero film to
