@@ -1,5 +1,6 @@
-Romance
-=======
+Teen Movies
+===========
+
 
 
 See our Selection below:
@@ -8,18 +9,18 @@ See our Selection below:
 | Film Title            | Year       | MPAA     | Run Time  | HAAB    |
 |                       | Released   | Rating   |           | Review  |
 +=======================+============+==========+===========+=========+
-| :ref:`every`          | 2017       | PG-13    | 1hr 52min | 6/10    |
+| :ref:`mean`           | 2017       | PG-13    | 1hr 52min | 6/10    |
 +-----------------------+------------+----------+-----------+---------+
-| :ref:`beauty`         | 2017       | PG       | 2hr 09min | 8/10    |
+| :ref:`monster`        | 2017       | PG       | 2hr 09min | 8/10    |
 +-----------------------+------------+----------+-----------+---------+
-| :ref:`fifty`          | 2017       | R        | 1hr 55min | 5/10    |
+| :ref:`homeward`       | 2017       | R        | 1hr 55min | 5/10    |
 +-----------------------+------------+----------+-----------+---------+
 
 
-.. _every:
+.. _mean:
 
-Everything, Everything 
-----------------------
+Mean Girls 
+----------
 .. image:: /images/everything.jpg
     :width: 50%
 
@@ -42,9 +43,9 @@ Ana de la Reguera, Peter Benson, Taylor Hickson.
 **MPAA Rating:** Rated PG-13
 
 
-Check out the trailer for `Everything`_!
+Check out the trailer for `Mean Girls`!
 
-.. _Everything: https://www.youtube.com/watch?v=42KNwQ6u42U
+.. _Mean Girls: https://www.youtube.com/watch?v=KAOmTMCtGkI
 
 **If you like Everything, Everything, you may also like:**
 
@@ -53,11 +54,12 @@ Check out the trailer for `Everything`_!
 * The Proposal
 
 
-.. _beauty:
+.. _moster:
 
-Beauty and the Beast
---------------------
-.. image:: images/beauty.jpg
+Monster TRuck
+-------------
+
+.. image:: images/monster.jpg
     :width: 50%
 
 *Description:*
@@ -82,9 +84,9 @@ Josh Gad, Ewan McGregor.
 **MPAA Rating:** Rated PG
 
 
-Check out the trailer for `Beauty and the Beast`_!
+Check out the trailer for `Monster Truck`!
 
-.. _Beauty and the Beast: https://www.youtube.com/watch?v=e3Nl_TCQXuw
+.. _Monster Truck: https://www.youtube.com/watch?v=wQGawWqJdfs
 
 **If you like Beatuy and the Beast, you may also like:**
 
@@ -92,10 +94,10 @@ Check out the trailer for `Beauty and the Beast`_!
 * Me before You
 * The Fault in Our Stars
 
-.. _fifty:
+.. _homeward:
 
-Fifty Shades Darker 
--------------------
+Homeward Bound 
+--------------
 .. image:: images/fifty.jpg
     :width: 50%
 
@@ -114,7 +116,7 @@ Luke Grimes, Dylan Neal.
 **MPAA Rating:** Rated R
 
 
-Check out the trailer for `Fifty Shades Darker`_!
+Check out the trailer for `Fifty Shades Darker`_ !
 
 .. _Fifty Shades Darker: https://www.youtube.com/watch?v=oQCyZKsT82M
 

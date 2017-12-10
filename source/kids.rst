@@ -44,7 +44,7 @@ Nathan Fillion, Lea DeLaria, Armie Hammer, Bonnie Hunt.
 **MPAA Rating:** Rated G
 
 
-Check out the trailer for `Cars 3`_ !
+Check out the trailer for `Cars 3`_!
 
 .. _Cars 3: https://www.youtube.com/watch?v=2LeOH9AGJQM
 
@@ -86,7 +86,7 @@ Nichole Scherzinger, Temuera Morrison, Racheal House.
 **MPAA Rating:** Rated PG
 
 
-Check out the trailer for `Moana`_ !
+Check out the trailer for `Moana`_!
 
 .. _Moana: https://www.youtube.com/watch?v=LKFuXETZUsI
 
@@ -125,7 +125,7 @@ Santino Fontana, Alan Tudyk.
 **MPAA Rating:** Rated PG
 
 
-Check out the trailer for `Frozen`_ !
+Check out the trailer for `Frozen`_!
 
 .. _Frozen: https://www.youtube.com/watch?v=TbQm5doF_Uc
 

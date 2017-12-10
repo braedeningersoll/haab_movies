@@ -6,10 +6,28 @@ cars, and knock down drag out fights? From your favorite superhero film to
 the summer blockbuster explosion-stravaganza HAAB has you covered!
 
 
-How to Lose a Guy in 10 Days (2017)
------------------------------------
+
+See our Selection below:
+
++-----------------------+------------+----------+-----------+---------+
+| Film Title            | Year       | MPAA     | Run Time  | HAAB    |
+|                       | Released   | Rating   |           | Review  |
++=======================+============+==========+===========+=========+
+| :ref:`how`            | 2017       | PG-13    | 1hr 52min | 6/10    |
++-----------------------+------------+----------+-----------+---------+
+| :ref:`beauty`         | 2017       | PG       | 2hr 09min | 8/10    |
++-----------------------+------------+----------+-----------+---------+
+| :ref:`fifty`          | 2017       | R        | 1hr 55min | 5/10    |
++-----------------------+------------+----------+-----------+---------+
+
+
+.. _how:
+
+
+How to Lose a Guy in 10 Days 
+----------------------------
 .. image:: images/lose.jpg
-    :width: 50%
+    :width: 40%
 
 *Description:*
 ~~~~~~~~~~~~~~
@@ -46,12 +64,12 @@ Annie Parisse, Adam Goldberg, Micheal Michele.
 **MPAA Rating:** Rated PG-13
 
 
-Check out the trailer for `How to Lose a Guy in 10 Days`_ !
+Check out the trailer for `How to Lose a Guy in 10 Days`_!
 
 .. _How to lose a Guy in 10 days: https://www.youtube.com/watch?v=EFGr2_cOOTk
 
-**If you like Moana you may also like:**
+**If you like How To Lose a Guy in 10 Days, you may also like:**
 
 * Sweet Home Alabama
-* Tthe Wedding Date
+* The Wedding Date
 * Just Like Haven
