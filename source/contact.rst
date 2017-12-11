@@ -1,12 +1,12 @@
 Contact Us
 ==========
 
-Simpson Student address
+**Address**
 123 Buxton Ave
 Indianola, Ia  50125
 
-Phone number 888-888-0297
+**Phone number** 888-888-0297
 
-Facebook HAAB Movies
+**Facebook Page** HAAB Movies
 
-email  HAAB@movies.com
+**Email:**  HAAB@movies.com

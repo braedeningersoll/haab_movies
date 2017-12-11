@@ -1,10 +1,12 @@
 Romance Films
 =============
 
-Looking for a film that will make you snuggle up to a Kleenex or your 
-pillow.  Looking for laughs and tears.  These Hopeless romantics will show you a great time.  HAAB can handle your passion until your heart's content.
+Looking for a film that will make you snuggle up to a Kleenex box or your 
+pillow?  Are you looking for laughter and tears?  Our selection of romance movies will
+surely satisfy the hopeless romantic in you.  HAAB has got you covered until your 
+heart is content.
 
-See our Selection below:
+See our selection below:
 
 +-----------------------+------------+----------+-----------+---------+
 | Film Title            | Year       | MPAA     | Run Time  | HAAB    |
@@ -33,7 +35,7 @@ has an immunodeficiency that makes her allergic to almost everything.
 However, her life changes for the better when she begins to communicate
 with the boy next door (Nick Robinson). Everything, Everything was directed 
 by Stella Meghie, and was adapted from the YA novel of the same name by 
-Nicola Yoon. Cited from IMDb
+Nicola Yoon. Cited from Rotten Tomatoes.
 
 **Starring:** Amandla Stenberg, Nick Robinson, Anika Noni Rose, 
 Ana de la Reguera, Peter Benson, Taylor Hickson.
@@ -45,9 +47,9 @@ Ana de la Reguera, Peter Benson, Taylor Hickson.
 **MPAA Rating:** Rated PG-13 for thematic elements and brief sensuality
 
 
-Check out the trailer for `Everything`_!
+Check out the trailer for `Everything Everything`_!
 
-.. _Everything: https://www.youtube.com/watch?v=42KNwQ6u42U
+.. _Everything Everything: https://www.youtube.com/watch?v=42KNwQ6u42U
 
 **If you like Everything, Everything, you may also like:**
 
@@ -74,7 +76,7 @@ Beast" is the fantastic journey of Belle, a bright, beautiful and
 independent young woman who is taken prisoner by a beast in his castle. 
 Despite her fears, she befriends the castle's enchanted staff and learns to
 look beyond the Beast's hideous exterior and realize the kind heart and 
-soul of the true Prince within. Cited from IMDb
+soul of the true Prince within. Cited from Rotten Tomatoes.
 
 **Starring:** Emma Watson, Dan Stevens (IV), Luke Evans, Kevin Kline,
 Josh Gad, Ewan McGregor.
@@ -107,8 +109,10 @@ Fifty Shades Darker
 *Description:*
 ~~~~~~~~~~~~~~
 
-Anastasia has broken off her relationship with the troubled Christian to 
-pursue a new career in a Seattle publishing house. Cited from IMDb
+Christian and Ana decide to rekindle their relationship, except this time 
+there are no more rules or punishments. As they begin to get used to their
+newfound relationship, Christian's past begins to haunt Ana as Christian 
+struggles with his innermost thoughts. Cited from IMDb
 
 **Starring:** Dakota Johnson, Jamie Doran, Eric Johnson, Rita Ora, 
 Luke Grimes, Dylan Neal.

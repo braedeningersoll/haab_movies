@@ -2,11 +2,11 @@ Kids' Films
 ===========
 
 Looking for a film that will make your kids laugh and give you a
-much-needed time out.  HAAB has a great attention seeking movie for any
-age!
+much-needed break?  HAAB has a great selection of movies that will
+captivate all ages!
 
 
-See our Selection below:
+See our selection below:
 
 +-------------------+------------+----------+-----------+---------+
 | Film Title        | Year       | MPAA     | Run Time  | HAAB    |
@@ -68,18 +68,12 @@ Moana
 *Description:*
 ~~~~~~~~~~~~~~
 
-Three thousand years ago, the greatest sailors in the world voyaged across
-the vast Pacific, discovering the many islands of Oceania. But then, for a
-millennium, their voyages stopped - and no one knows exactly why. From Walt
-Disney Animation Studios comes "Moana," a sweeping, CG-animated feature 
-film about an adventurous teenager who sails out on a daring mission to 
-save her people. During her journey, Moana (voice of Auli'i Cravalho) meets
-the mighty demigod Maui (voice of Dwayne Johnson), who guides her in her
-quest to become a master wayfinder. Together, they sail across the open 
-ocean on an action-packed voyage, encountering enormous monsters and
-impossible odds, and along the way, Moana fulfills the ancient quest of   
-her ancestors and discovers the one thing she's always sought: her own 
-identity. Cited from IMDb
+Moana Waialiki is a sea voyaging enthusiast and the only daughter of a chief in a
+long line of navigators. When her island's fishermen can't catch any fish and the 
+crops fail, she learns that the demigod Maui caused the blight by stealing the heart
+of the goddess, Te Fiti. The only way to heal the island is to persuade Maui to 
+return Te Fiti's heart, so Moana sets off on an epic journey across the Pacific. 
+The film is based on stories from Polynesian mythology. Cited from IMDb
 
 **Starring:** Dwayne Johnson, Auli'i Cravalho, Jemaine Clement, 
 Nichole Scherzinger, Temuera Morrison, Racheal House.
@@ -118,8 +112,7 @@ extreme mountain man Kristoff and his sidekick reindeer Sven on an epic
 journey to find Anna's sister Elsa, the Snow Queen, and put an end to her
 icy spell. Encountering mystical trolls, a funny snowman named Olaf,
 Everest-like extremes and magic at every turn, Anna and Kristoff battle the
-elements in a race to save the kingdom from destruction. (c) Disney. Cited
-from IMDb
+elements in a race to save the kingdom from destruction. Cited from Rotten Tomatoes.
 
 **Starring:** Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad, 
 Santino Fontana, Alan Tudyk.
