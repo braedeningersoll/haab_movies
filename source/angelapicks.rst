@@ -131,13 +131,12 @@ pace and a relationship, with hilarious results. Cited from IMDb
 **MPAA Rating:** Rated PG-13 for sexual content
 
 HAAB Review: Must Love Dogs is my go to movie when I have recently broken 
-up with a boyfriend.  As a woman in her mid-forties, I apricate the
+up with a boyfriend.  As a woman in her mid-forties, I appreciate the
 storyline from the aspect of an older dating generation. When I first saw
-this movie the dating world had just been introduced to online profiles.
-How, Prospective men and woman can decide by looks alone if they feel 
-someone would be compatible.  The movie is so realistic it highlights how
-Mr. right can be right under your nose but you still choose Mr. wrong a few
-times first.
+this movie the dating world had shifted online. How, Prospective men and 
+woman can decide by looks alone if they feel someone would be compatible. 
+The movie is so realistic it highlights how Mr. right can be right under 
+your nose but you still choose Mr. wrong a few times first.
 
 
 Check out the trailer for `Must Love Dogs`_!
