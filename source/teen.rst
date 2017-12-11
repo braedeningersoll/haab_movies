@@ -34,7 +34,7 @@ his niece and nephew start to magically come true. Cited from IMDb
 
 **Starring:** Adam Sandler, Keri Russell, Courtney Cox.
 
-**Directed by:** 
+**Directed by:** Adam Shankman
 
 **Run Time:** 1hr 47min
 
