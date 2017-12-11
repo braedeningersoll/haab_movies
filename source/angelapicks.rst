@@ -65,7 +65,7 @@ Check out the trailer for `How to Lose a Guy in 10 Days`_!
 
 * Sweet Home Alabama
 * The Wedding Date
-* Just Like Haven
+* Just Like Heaven
 
 .. _chi:
 
@@ -93,9 +93,9 @@ thematic elements
 
 HAAB Review: The movie Chicago, just makes me want to get out of my seat 
 and dance.  Yes, the idea of killing cheating men also intrigues me a 
-little.  This musical has once a Broadway hit that needed to be in 
+little.  This musical was once a Broadway hit that needed to be in 
 everyone's home. The way the dancing tells the story is unbelievable.  You 
-just must see this move.
+must see this movie!
 
 
 Check out the trailer for `Chicago`_!
@@ -130,7 +130,7 @@ pace and a relationship, with hilarious results. Cited from IMDb
 
 **MPAA Rating:** Rated PG-13 for sexual content
 
-HAAB Review: Must Love Dogs, is my go to movie when I have recently broken 
+HAAB Review: Must Love Dogs is my go to movie when I have recently broken 
 up with a boyfriend.  As a woman in her mid-forties, I apricate the
 storyline from the aspect of an older dating generation. When I first saw
 this movie the dating world had just been introduced to online profiles.
