@@ -12,7 +12,7 @@ See our Selection below:
 +-----------------------+------------+----------+-----------+---------+
 | :ref:`beauty`         | 2017       | PG       | 2hr 09min | 8/10    |
 +-----------------------+------------+----------+-----------+---------+
-| :ref:`fifty`          | 2017       | R        | 1hr 55min | 5/10    |
+| :ref:`fifty`          | 2017       | R        | 1hr 58min | 5/10    |
 +-----------------------+------------+----------+-----------+---------+
 
 
@@ -36,10 +36,11 @@ Nicola Yoon.
 **Starring:** Amandla Stenberg, Nick Robinson, Anika Noni Rose, 
 Ana de la Reguera, Peter Benson, Taylor Hickson.
 
+**Directed by:** Stella Meghie
 
 **Run Time:** 1hr 47min
 
-**MPAA Rating:** Rated PG-13
+**MPAA Rating:** Rated PG-13 for thematic elements and brief sensuality
 
 
 Check out the trailer for `Everything`_!
@@ -76,10 +77,12 @@ soul of the true Prince within..
 **Starring:** Emma Watson, Dan Stevens (IV), Luke Evans, Kevin Kline,
 Josh Gad, Ewan McGregor.
 
+**Directed by:** Bill Condon
 
 **Run Time:** 2hr 09min
 
-**MPAA Rating:** Rated PG
+**MPAA Rating:** Rated PG for some action violence, peril and frightening 
+images
 
 
 Check out the trailer for `Beauty and the Beast`_!
@@ -108,10 +111,12 @@ pursue a new career in a Seattle publishing house.
 **Starring:** Dakota Johnson, Jamie Doran, Eric Johnson, Rita Ora, 
 Luke Grimes, Dylan Neal.
 
+**Directed by:** James Foley
 
 **Run Time:** 1hr 55min
 
-**MPAA Rating:** Rated R
+**MPAA Rating:** Rated R for strong erotic sexual content, some graphic
+nudity, and language
 
 
 Check out the trailer for `Fifty Shades Darker`_!

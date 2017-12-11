@@ -38,11 +38,11 @@ heart of a champion on Piston Cup Racing's biggest stage!.
 **Starring:** Owen Wilson, Cristela Alonzo, Kerry Washington, 
 Nathan Fillion, Lea DeLaria, Armie Hammer, Bonnie Hunt.
 
+**Directed by:**  Brian Fee
 
 **Run Time:** 1hr 49min
 
-**MPAA Rating:** Rated G
-
+**MPAA Rating:** Rated G 
 
 Check out the trailer for `Cars 3`_!
 
@@ -80,11 +80,11 @@ identity..
 **Starring:** Dwayne Johnson, Auli'i Cravalho, Jemaine Clement, 
 Nichole Scherzinger, Temuera Morrison, Racheal House.
 
+**Directed by:** Ron Clements, John Musker
 
 **Run Time:** 1hr 43min
 
-**MPAA Rating:** Rated PG
-
+**MPAA Rating:** Rated PG for peril, some scary images and brief thematic elements
 
 Check out the trailer for `Moana`_!
 
@@ -119,10 +119,11 @@ elements in a race to save the kingdom from destruction. (c) Disney.
 **Starring:** Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad, 
 Santino Fontana, Alan Tudyk.
 
+**Directed by:**  Chris Buck, Jennifer Lee
 
 **Run Time:** 1hr 42min
 
-**MPAA Rating:** Rated PG
+**MPAA Rating:** Rated PG for some action and mild rude humor
 
 
 Check out the trailer for `Frozen`_!

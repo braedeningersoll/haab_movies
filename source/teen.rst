@@ -9,55 +9,52 @@ See our Selection below:
 | Film Title            | Year       | MPAA     | Run Time  | HAAB    |
 |                       | Released   | Rating   |           | Review  |
 +=======================+============+==========+===========+=========+
-| :ref:`mean`           | 2017       | PG-13    | 1hr 52min | 6/10    |
+| :ref:`bed`            | 2008       | PG       | 1hr 39min | 6/10    |
 +-----------------------+------------+----------+-----------+---------+
 | :ref:`monster`        | 2017       | PG       | 2hr 09min | 8/10    |
 +-----------------------+------------+----------+-----------+---------+
-| :ref:`homeward`       | 2017       | R        | 1hr 55min | 5/10    |
+| :ref:`mr`             | 2007       | G        | 1hr 33min | 5/10    |
 +-----------------------+------------+----------+-----------+---------+
 
 
-.. _mean:
+.. _bed:
 
-Mean Girls 
-----------
-.. image:: /images/everything.jpg
+Bedtime Stories 
+---------------
+
+.. image:: /images/bedtime.jpg
     :width: 50%
 
 *Description:*
 ~~~~~~~~~~~~~~
 
-A teenage girl (Amandla Stenberg) is unable to leave her home because she 
-has an immunodeficiency that makes her allergic to almost everything. 
-However, her life changes for the better when she begins to communicate
-with the boy next door (Nick Robinson). Everything, Everything was directed 
-by Stella Meghie, and was adapted from the YA novel of the same name by 
-Nicola Yoon.
+A hotel handyman's life changes when the lavish bedtime stories he tells 
+his niece and nephew start to magically come true.
 
-**Starring:** Amandla Stenberg, Nick Robinson, Anika Noni Rose, 
-Ana de la Reguera, Peter Benson, Taylor Hickson.
+**Starring:** Adam Sandler, Keri Russell, Courtney Cox.
 
+**Directed by:** 
 
 **Run Time:** 1hr 47min
 
-**MPAA Rating:** Rated PG-13
+**MPAA Rating:** Rated PG for some mild rude humor and mild language
 
 
-Check out the trailer for `Mean Girls`!
+Check out the trailer for `Bedtime Stories`!
 
-.. _Mean Girls: https://www.youtube.com/watch?v=KAOmTMCtGkI
+.. _Bedtime Stories: https://www.youtube.com/watch?v=ipNrVfFeQ8E
 
-**If you like Everything, Everything, you may also like:**
+**If you like Bedtime Stories, you may also like:**
 
-* Love Actually
-* La La Land
-* The Proposal
+* Night at the Museum
+* Open Season
+* Over the Hedge
 
 
-.. _moster:
+.. _monster:
 
-Monster TRuck
--------------
+Monster Trucks
+--------------
 
 .. image:: images/monster.jpg
     :width: 50%
@@ -65,63 +62,68 @@ Monster TRuck
 *Description:*
 ~~~~~~~~~~~~~~
 
-Disney's "Beauty and the Beast" is a live-action re-telling of the studio's
-animated classic which refashions the classic characters from the tale as
-old as time for a contemporary audience, staying true to the original 
-music while updating the score with several new songs. "Beauty and the
-Beast" is the fantastic journey of Belle, a bright, beautiful and 
-independent young woman who is taken prisoner by a beast in his castle. 
-Despite her fears, she befriends the castle's enchanted staff and learns to
-look beyond the Beast's hideous exterior and realize the kind heart and 
-soul of the true Prince within..
+Looking for any way to get away from the life and town he was born into,
+Tripp (Lucas Till), a high school senior, builds a Monster Truck from bits
+and pieces of scrapped cars. After an accident at a nearby oil-drilling 
+site displaces a strange and subterranean creature with a taste and a
+talent for speed, Tripp may have just found the key to getting out of town
+and a most unlikely friend. Melding cutting edge visual effects and
+state-of-the-art CGI, Monster Trucks is an action filled adventure for 
+the whole family that will keep you on the edge of your seat and 
+ultimately touch your heart.
 
-**Starring:** Emma Watson, Dan Stevens (IV), Luke Evans, Kevin Kline,
-Josh Gad, Ewan McGregor.
+**Starring:** Lucas Till, Jane Levy, Thomas Lennon, Barry Pepper, Rob Lowe,
+Danny Glover, Amy Ryan, Holt McCallany.
+
+**Directed by:** Chris Wedge 
+
+**Run Time:** 1hr 44min
+
+**MPAA Rating:** Rated PG for action, peril, brief scary images, and some 
+rude humor
 
 
-**Run Time:** 2hr 09min
+Check out the trailer for `Monster Trucks`_!
 
-**MPAA Rating:** Rated PG
+.. _Monster Trucks: https://www.youtube.com/watch?v=wQGawWqJdfs
 
+**If you like Monster Trucks, you may also like:**
 
-Check out the trailer for `Monster Truck`!
+* Battleship
+* Transformers
+* Herbie
 
-.. _Monster Truck: https://www.youtube.com/watch?v=wQGawWqJdfs
+.. _mr:
 
-**If you like Beatuy and the Beast, you may also like:**
+Mr. Magorium's Wonder Emporium
+------------------------------
 
-* Pretty Woman
-* Me before You
-* The Fault in Our Stars
-
-.. _homeward:
-
-Homeward Bound 
---------------
-.. image:: images/fifty.jpg
+.. image:: images/mr.jpg
     :width: 50%
 
 *Description:*
 ~~~~~~~~~~~~~~
 
-Anastasia has broken off her relationship with the troubled Christian to 
-pursue a new career in a Seattle publishing house.
+Set in a magical toy shop which affords adults the opportunity to retain a
+child's sense of magic and wonder in their lives, a clerk must decide 
+whether she wants to run the store after its current owner Mr. Magorium
+passes away
 
-**Starring:** Dakota Johnson, Jamie Doran, Eric Johnson, Rita Ora, 
-Luke Grimes, Dylan Neal.
+**Starring:** Natalie Portman, Dustin Hoffman, Jason Bateman.
+
+**Directed by:** Zach Helm
+
+**Run Time:** 1hr 33min
+
+**MPAA Rating:** Rated G, Comedy, Family, Fantasy
 
 
-**Run Time:** 1hr 55min
+Check out the trailer for `Mr Magoriums Wonder Emporium`_!
 
-**MPAA Rating:** Rated R
+.. _Mr Magoriums Wonder Emporium: https://www.youtube.com/watch?v=m4Mrga2aSL0
 
+**If you like Mr. Magorium's Wonder Emporium, you may also like:**
 
-Check out the trailer for `Fifty Shades Darker`_ !
-
-.. _Fifty Shades Darker: https://www.youtube.com/watch?v=oQCyZKsT82M
-
-**If you like Fifty Shades Darker, you may also like:**
-
-* Fifty Shades of Grey
-* 50 First Dates
-* Ghost
+* Austenland
+* Leatherheads
+* Penelope
