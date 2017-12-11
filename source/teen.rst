@@ -1,7 +1,8 @@
-Teen Movies
-===========
+Teen Films
+==========
 
-
+Looking for a film that will make your teens entertained, and you smiling.
+We suggest these popular teen movies!
 
 See our Selection below:
 
@@ -29,7 +30,7 @@ Bedtime Stories
 ~~~~~~~~~~~~~~
 
 A hotel handyman's life changes when the lavish bedtime stories he tells 
-his niece and nephew start to magically come true.
+his niece and nephew start to magically come true. Cited from IMDb
 
 **Starring:** Adam Sandler, Keri Russell, Courtney Cox.
 
@@ -70,7 +71,7 @@ talent for speed, Tripp may have just found the key to getting out of town
 and a most unlikely friend. Melding cutting edge visual effects and
 state-of-the-art CGI, Monster Trucks is an action filled adventure for 
 the whole family that will keep you on the edge of your seat and 
-ultimately touch your heart.
+ultimately touch your heart. Cited from IMDb
 
 **Starring:** Lucas Till, Jane Levy, Thomas Lennon, Barry Pepper, Rob Lowe,
 Danny Glover, Amy Ryan, Holt McCallany.
@@ -107,7 +108,7 @@ Mr. Magorium's Wonder Emporium
 Set in a magical toy shop which affords adults the opportunity to retain a
 child's sense of magic and wonder in their lives, a clerk must decide 
 whether she wants to run the store after its current owner Mr. Magorium
-passes away
+passes away. Cited from IMDb
 
 **Starring:** Natalie Portman, Dustin Hoffman, Jason Bateman.
 

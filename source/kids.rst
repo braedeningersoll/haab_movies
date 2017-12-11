@@ -1,5 +1,9 @@
-Kids Films
-==========
+Kids' Films
+===========
+
+Looking for a film that will make your kids laugh and give you a
+much-needed time out.  HAAB has a great attention seeking movie for any
+age!
 
 
 See our Selection below:
@@ -33,7 +37,7 @@ sport he loves. To get back in the game, he will need the help of an eager
 young race technician, Cruz Ramirez (voice of Cristela Alonzo), with her
 own plan to win, plus inspiration from the late Fabulous Hudson Hornet and 
 a few unexpected turns. Proving that #95 isn't through yet will test the 
-heart of a champion on Piston Cup Racing's biggest stage!.
+heart of a champion on Piston Cup Racing's biggest stage! Cited from IMDb
 
 **Starring:** Owen Wilson, Cristela Alonzo, Kerry Washington, 
 Nathan Fillion, Lea DeLaria, Armie Hammer, Bonnie Hunt.
@@ -75,7 +79,7 @@ quest to become a master wayfinder. Together, they sail across the open
 ocean on an action-packed voyage, encountering enormous monsters and
 impossible odds, and along the way, Moana fulfills the ancient quest of   
 her ancestors and discovers the one thing she's always sought: her own 
-identity..
+identity. Cited from IMDb
 
 **Starring:** Dwayne Johnson, Auli'i Cravalho, Jemaine Clement, 
 Nichole Scherzinger, Temuera Morrison, Racheal House.
@@ -114,7 +118,8 @@ extreme mountain man Kristoff and his sidekick reindeer Sven on an epic
 journey to find Anna's sister Elsa, the Snow Queen, and put an end to her
 icy spell. Encountering mystical trolls, a funny snowman named Olaf,
 Everest-like extremes and magic at every turn, Anna and Kristoff battle the
-elements in a race to save the kingdom from destruction. (c) Disney.
+elements in a race to save the kingdom from destruction. (c) Disney. Cited
+from IMDb
 
 **Starring:** Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad, 
 Santino Fontana, Alan Tudyk.

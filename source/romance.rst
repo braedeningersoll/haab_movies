@@ -1,6 +1,8 @@
-Romance
-=======
+Romance Films
+=============
 
+Looking for a film that will make you snuggle up to a Kleenex or your 
+pillow.  Looking for laughs and tears.  These Hopeless romantics will show you a great time.  HAAB can handle your passion until your heart's content.
 
 See our Selection below:
 
@@ -31,7 +33,7 @@ has an immunodeficiency that makes her allergic to almost everything.
 However, her life changes for the better when she begins to communicate
 with the boy next door (Nick Robinson). Everything, Everything was directed 
 by Stella Meghie, and was adapted from the YA novel of the same name by 
-Nicola Yoon.
+Nicola Yoon. Cited from IMDb
 
 **Starring:** Amandla Stenberg, Nick Robinson, Anika Noni Rose, 
 Ana de la Reguera, Peter Benson, Taylor Hickson.
@@ -72,7 +74,7 @@ Beast" is the fantastic journey of Belle, a bright, beautiful and
 independent young woman who is taken prisoner by a beast in his castle. 
 Despite her fears, she befriends the castle's enchanted staff and learns to
 look beyond the Beast's hideous exterior and realize the kind heart and 
-soul of the true Prince within..
+soul of the true Prince within. Cited from IMDb
 
 **Starring:** Emma Watson, Dan Stevens (IV), Luke Evans, Kevin Kline,
 Josh Gad, Ewan McGregor.
@@ -89,7 +91,7 @@ Check out the trailer for `Beauty and the Beast`_!
 
 .. _Beauty and the Beast: https://www.youtube.com/watch?v=e3Nl_TCQXuw
 
-**If you like Beatuy and the Beast, you may also like:**
+**If you like Beauty and the Beast, you may also like:**
 
 * Pretty Woman
 * Me before You
@@ -106,7 +108,7 @@ Fifty Shades Darker
 ~~~~~~~~~~~~~~
 
 Anastasia has broken off her relationship with the troubled Christian to 
-pursue a new career in a Seattle publishing house.
+pursue a new career in a Seattle publishing house. Cited from IMDb
 
 **Starring:** Dakota Johnson, Jamie Doran, Eric Johnson, Rita Ora, 
 Luke Grimes, Dylan Neal.
