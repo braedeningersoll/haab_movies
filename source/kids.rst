@@ -1,5 +1,9 @@
-**Kids Films**
-==============
+Kids' Films
+===========
+
+Looking for a film that will make your kids laugh and give you a
+much-needed time out.  HAAB has a great attention seeking movie for any
+age!
 
 
 See our Selection below:
@@ -33,18 +37,18 @@ sport he loves. To get back in the game, he will need the help of an eager
 young race technician, Cruz Ramirez (voice of Cristela Alonzo), with her
 own plan to win, plus inspiration from the late Fabulous Hudson Hornet and 
 a few unexpected turns. Proving that #95 isn't through yet will test the 
-heart of a champion on Piston Cup Racing's biggest stage!.
+heart of a champion on Piston Cup Racing's biggest stage! Cited from IMDb
 
 **Starring:** Owen Wilson, Cristela Alonzo, Kerry Washington, 
 Nathan Fillion, Lea DeLaria, Armie Hammer, Bonnie Hunt.
 
+**Directed by:**  Brian Fee
 
 **Run Time:** 1hr 49min
 
-**MPAA Rating:** Rated G
+**MPAA Rating:** Rated G 
 
-
-Check out the trailer for `Cars 3`_ !
+Check out the trailer for `Cars 3`_!
 
 .. _Cars 3: https://www.youtube.com/watch?v=2LeOH9AGJQM
 
@@ -75,18 +79,18 @@ quest to become a master wayfinder. Together, they sail across the open
 ocean on an action-packed voyage, encountering enormous monsters and
 impossible odds, and along the way, Moana fulfills the ancient quest of   
 her ancestors and discovers the one thing she's always sought: her own 
-identity..
+identity. Cited from IMDb
 
 **Starring:** Dwayne Johnson, Auli'i Cravalho, Jemaine Clement, 
 Nichole Scherzinger, Temuera Morrison, Racheal House.
 
+**Directed by:** Ron Clements, John Musker
 
 **Run Time:** 1hr 43min
 
-**MPAA Rating:** Rated PG
+**MPAA Rating:** Rated PG for peril, some scary images and brief thematic elements
 
-
-Check out the trailer for `Moana`_ !
+Check out the trailer for `Moana`_!
 
 .. _Moana: https://www.youtube.com/watch?v=LKFuXETZUsI
 
@@ -114,18 +118,20 @@ extreme mountain man Kristoff and his sidekick reindeer Sven on an epic
 journey to find Anna's sister Elsa, the Snow Queen, and put an end to her
 icy spell. Encountering mystical trolls, a funny snowman named Olaf,
 Everest-like extremes and magic at every turn, Anna and Kristoff battle the
-elements in a race to save the kingdom from destruction. (c) Disney.
+elements in a race to save the kingdom from destruction. (c) Disney. Cited
+from IMDb
 
 **Starring:** Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad, 
 Santino Fontana, Alan Tudyk.
 
+**Directed by:**  Chris Buck, Jennifer Lee
 
 **Run Time:** 1hr 42min
 
-**MPAA Rating:** Rated PG
+**MPAA Rating:** Rated PG for some action and mild rude humor
 
 
-Check out the trailer for `Frozen`_ !
+Check out the trailer for `Frozen`_!
 
 .. _Frozen: https://www.youtube.com/watch?v=TbQm5doF_Uc
 

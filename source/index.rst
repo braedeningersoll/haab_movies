@@ -14,7 +14,6 @@ Welcome to HAAB Movies's documentation!
    action
    angelapicks
    braedens_favorites
-   contact
    comedy
    contact
    favorites
@@ -26,12 +25,8 @@ Welcome to HAAB Movies's documentation!
    new_releases
    prices
    romance
+   teen
    videogames
-
-
-
-Indices and tables
-==================
 
 
 
