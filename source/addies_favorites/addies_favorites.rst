@@ -59,3 +59,9 @@ will forever be a classic film, the second Dumb and Dumber was a huge disappoint
 This squeal was called Dumber and Dumber To. This film had a lot of crude humor and was
 not nearly as funny as the first one. The filmmakers of Dumb and Dumber should have just
 left it at one film. It's a fact the the sequels are never as good as the original films. 
+
+**If you like Dumb and Dumber you may also like:**
+
+* My, Myself and Irene
+* Kingpin
+* The Mask
