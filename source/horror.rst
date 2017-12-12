@@ -5,113 +5,122 @@ Looking for a film that'll give you nightmares for a week? Maybe you're feeling
 spooky. Look no further, HAAB's got you covered!
 
 
-See our Selection below:
+See our selection below:
 
-+-------------------------------------+------------+----------+-----------+---------+
-| Film Title                          | Year       | MPAA     | Run Time  | HAAB    |
-|                                     | Released   | Rating   |           | Review  |
-+=====================================+============+==========+===========+=========+
-| IT                                  | 1990       | TV-14    | 3hr 12min | 7/10    |
-+-------------------------------------+------------+----------+-----------+---------+
-| The Conjuring                       | 2013       | R        | 1hr 52min | 8/10    |
-+-------------------------------------+------------+----------+-----------+---------+
-| Carrie                              | 1976       | R        | 1hr 38min | 8/10    |
-+-------------------------------------+------------+----------+-----------+---------+
++-------------------------+------------+----------+-----------+---------+
+| Film Title              | Year       | MPAA     | Run Time  | HAAB    |
+|                         | Released   | Rating   |           | Review  |
++=========================+============+==========+===========+=========+
+| :ref:`getout`           | 2017       | R        | 1hr 44min | 8/10    |
++-------------------------+------------+----------+-----------+---------+
+| :ref:`alien`            | 2017       | R        | 2hr 2min  | 7/10    |
++-------------------------+------------+----------+-----------+---------+
+| :ref:`ring`             | 2017       | PG-13    | 1hr 42min | 5/10    |
++-------------------------+------------+----------+-----------+---------+
 
-IT (1990)
-----------
-.. image::
-    :width: 50%
+.. _getout:
 
-Description:
-~~~~~~~~~~~~
-
-It's 1960, seven pre-teen outcasts have to fight an evil-demon who is pretending
-to be a clown, killing children. They return thirty years later to stop this
-evil creature once and for all when it returns to their hometown.
-
-
-**Starring:** Richard Thomas, Tim Reid, and Annette O'Toole
-
-**Directed by:** Tommy Lee Wallace
-
-**Run Time:** 3hr 12min
-
-**MPAA Rating:** Rated R, Violence & Adult Language throughout
-
-Check out the trailer for `IT`_
-
-.. _IT: https://www.youtube.com/watch?v=k10ETZ41q5o
-
-**If you like IT you may also like:**
-
-* IT (2017)
-* The Shining
-* Creepers Jeepers
-
-The Conjuring (2013)
---------------------
-.. image::
-    :width: 50%
+Get Out 
+-------
+.. image:: /images/getout.jpg
+    :width: 40%
 
 Description:
 ~~~~~~~~~~~~
 
-It's 1970, paranomal investigators and demonologists Lorrain (Vera Farmiga)
-and Ed (Patrick Wilson) Warren are called to the home of the Perron Family. The
-Perrons and their daughters have recently moved into a secluded farmhouse where
-paranormal occurrences have taken place. The Warrens soon discover the house's
-grim history.
+Chris and his girlfriend Rose, have reached the point in their relationship
+where she is able to introduce him to her parents. What seemed like a quirky
+family gradually turns for the worse. This leads Chris to discovering the 
+family's dark secrets and their dark intentions for him. 
 
 
-**Starring:** Vera Farmiga, Patrick Wilson, Lili Taylor, and Ron Livingston.
+**Starring:** *Daniel Kaluuya, Allison Williams, Catherine Keener, and Bradley 
+Whitford.*
 
-**Directed by:** James Wan
+**Directed by:** *Jordan Peele*
 
-**Producer:** New Line Cinema and Warner Brothers Studios
+**Run Time:** 1hr 44min
 
-**Run Time:** 1hr 52min
+**MPAA Rating:** Rated R; Violence, bloody images, language, and sexual 
+references.
 
-**MPAA Rating:** Rated R, Violence & Adult Language throughout
+Check out the trailer for `Get Out`_
 
-Check out the trailer for `The Conjuring`_
+.. _Get Out: https://www.youtube.com/watch?v=sRfnevzM9kQ
 
-.. _The Conjuring: https://www.youtube.com/watch?v=k10ETZ41q5o
+**If you like Get Out you may also like:**
 
-**If you like Baby Driver you may also like:**
+* Don't Breathe
+* It (2017)
+* Split
 
-* The Conjuring 2
-* Annabelle
-* Insidious
+.. _alien:
 
-Carrie (1976)
--------------
-.. image::
-    :width: 50%
+Alien: Covenant
+---------------
+.. image:: /images/alien.jpg
+    :width: 40%
 
 Description:
 ~~~~~~~~~~~~
 
-Carrie White (Sissy Spacek), a shy and friendless high school girl has grown up
-being sheltered by her abusive, religious and domineering mother. One day she
-unleashes telekinetic powers after an humiliating incident at her high school
-prom.
-
-**Starring:** Sissy Spacek, Piper Laurie, and Amy Irving.
-
-**Directed by:** Brian De Palma
+A colony ship of more than 2,000 set out on an expedition to a remote planet, 
+but things go wrong once they discover this uncharted land. The humans are faced
+with monsters they have never seen before and this expedition trip ends up being
+a rescue mission as they try to escape the terrifying unkown.
 
 
-**Run Time:** 1hr 38min
+**Starring:** *Michael Fassbender, Katherine Waterston, Billy Crudup, and Danny 
+McBride.*
 
-**MPAA Rating:** Rated R, Violence & Adult Language throughout
+**Directed by:** *Ridley Scott*
 
-Check out the trailer for `Carrie`_
+**Run Time:** 2hr 2min
 
-.. _Carrie: https://www.youtube.com/watch?v=YuO26oJQLVs
+**MPAA Rating:** Rated R, Sci-fi violence, bloody images, language, and 
+sexuality/nudity.
 
-**If you like Carrie you may also like:**
+Check out the trailer for `Alien Covenant`_
 
-* Scream
-* Poltergeist
-* The Exorcist
+.. _Alien Covenant: https://www.youtube.com/watch?v=svnAD0TApb8
+
+**If you like Alien: Covenant you may also like:**
+
+* Prometheus
+* Alien Series
+* Kong: Skull Island
+
+.. _ring:
+
+Rings
+-----
+.. image:: /images/rings.jpg
+    :width: 40%
+
+Description:
+~~~~~~~~~~~~
+
+There is an urban legend that talks about a mysterious video that is said to
+kill the person who watches the video in seven days. Julia soon becomes worried
+for her boyfriend, Holt, after he finds said video. But through this they 
+discover that the movie has a movie within it.
+
+**Starring:** *Matilda Anna Ingrid Lutz, Alex Roe, Johnny Galecki, Vincent 
+D'Onofrio, and Aimee Teegarden.*
+
+**Directed by:** *F. Javier Gutierrez*
+
+**Run Time:** 1hr 42min
+
+**MPAA Rating:** Rated PG-13; Violence, terror, thematic elements, sexuality,
+and brief drug material. 
+
+Check out the trailer for `Rings`_
+
+.. _Rings: https://www.youtube.com/watch?v=YuO26oJQLVs
+
+**If you like Rings you may also like:**
+
+* Ring Series
+* The Bye Bye Man
+* Ouija
