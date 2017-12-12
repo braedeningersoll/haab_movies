@@ -1,5 +1,5 @@
-Comedies
-========
+**Comedies**
+============
 
 Welcome to the comedies page! Here is a list of a few of the top comedy movies of all time.
 
@@ -31,7 +31,7 @@ HAAB's top 4 comedy movies of 2017:
 Crash Pad
 ---------
 
-.. image:: images/crash.jpg
+.. figure:: images/crash.jpg
     :width: 50%
 
 *Description:*
@@ -59,7 +59,7 @@ Thomas Church, and Anja Savcic.
 Despicable Me 3
 ---------------
 
-.. image:: images/despicable.jpg
+.. figure:: images/despicable.jpg
     :width: 50%
 
 *Description:*
@@ -88,7 +88,7 @@ Literally, Right Before Aaron
 -----------------------------
 
 
-.. image:: images/aaron.jpg
+.. figure:: images/aaron.jpg
     :width: 50%
 
 *Description:*
@@ -115,7 +115,7 @@ Logan Lucky
 -----------
 
 
-.. image:: images/logan.jpg
+.. figure:: images/logan.jpg
     :width: 50%
 
 *Description:*
@@ -135,3 +135,4 @@ things go wrong so this will definitely be an adventure.
     Check out the trailer for `Logan Lucky`_ !
 
 .. _Logan Lucky: https://www.youtube.com/watch?v=ruJWLgLiSX0
+
