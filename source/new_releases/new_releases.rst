@@ -24,15 +24,14 @@ See our Selection below:
 
 The Circle
 ----------
-.. image:: /images/the_circle.jpg
+.. image:: images/the_circle.jpg
     :width: 50%
 
 Description:
 ~~~~~~~~~~~~
 
 Mega tech company, The Circle constantly innovates an adapts technology to wonderful ends and 
-drives a technology market that has everyone connected and entertaine. Mae (Emma Watson) lands her 
-dream job working for The Circle an quickly climbs up the social ladder both online and in the 
+drives a technology market that has everyone connected and entertained. Mae (Emma Watson) lands her dream job working for The Circle an quickly climbs up the social ladder both online and in the 
 company. Though will she be able to cope with her job and life if The Circle is up to more than it
 seems?
 
@@ -42,7 +41,7 @@ seems?
 
 **Run Time:** 1hr 50min
 
-**MPAA Rating:** Rated PG-13; Sexual Situtations, Strong Language, some Drug Use
+**MPAA Rating:** Rated PG-13; Sexual Situations, Strong Language, & some Drug Use
 
 Check out the trailer for `The Circle`_!
 
@@ -50,15 +49,15 @@ Check out the trailer for `The Circle`_!
 
 **If you like The Circle you may also like:**
 
-* Life
-* Ghost in the Shell
-* Captain America: The Winter Soldier
+* *Life*
+* *Ghost in the Shell*
+* *Captain America: The Winter Soldier*
 
 .. _theHouse:
 
 The House
 ---------
-.. image:: /images/the_house.jpg
+.. image:: images/the_house.jpg
     :width: 50%
 
 Description:
@@ -66,7 +65,7 @@ Description:
 
 When the daughter of Scott and Kate Johnansen (Will Ferrell & Amy Poehler) is accepting into her 
 dream college, they first are excited. Then they quickly realize they don't have the money to 
-afford her tuition. So in order to make their daughter's wish come true, Scott and Kate convert 
+afford her tuition. So, in order to make their daughter's wish come true, Scott and Kate convert 
 their home into a Vegas style casino and begin and underground gambling ring. Does this house 
 always win? Or will they bust?
 
@@ -84,15 +83,15 @@ Check out the trailer for `The House`_!
 
 **If you like The House you may also like:**
 
-* Rough Night
-* Sisters
-* The Other Guys
+* *Rough Night*
+* *Sisters*
+* *The Other Guys*
 
 .. _PoCDMTNT:
 
 Pirates of the Caribbean: Dead Men Tell No Tales
 ------------------------------------------------
-.. image:: /images/poc_dead_men.jpg
+.. image:: images/poc_dead_men.jpg
     :width: 50%
 
 Description:
@@ -100,7 +99,7 @@ Description:
 
 Captain Jack Sparrow (Johnny Depp) is still without his beloved ship, The Black Pearl. As he 
 searches the seas once more for the ship, an old foe returns from the grave to hunt him down and 
-every last pirate still alive. Captain Jack's only hope is to find the Trident of Poseidon an take
+every last pirate still alive. Captain Jack's only hope is to find the Trident of Poseidon and take
 back the seas for himself.
 
 **Starring:** Johnny Depp, Geoffrey Rush, Javier Bardem
@@ -117,15 +116,15 @@ Check out the trailer for `Pirates of the Caribbean Dead Men Tell No Tales`_!
 
 **If you like Pirates of the Caribbean: Dead Men Tell No Tales you may also like:**
 
-* Pirates of the Caribbean: The Curse of the Black 
-* Alice in Wonderland
-* Into the Woods
+* *Pirates of the Caribbean: The Curse of the Black* 
+* *Alice in Wonderland*
+* *Into the Woods*
 
 .. _toSnatched:
 
 Snatched
 --------
-.. image:: /images/snatched.jpg
+.. image:: images/snatched.jpg
     :width: 50%
 
 Description:
@@ -133,7 +132,7 @@ Description:
 
 Emily Middleton's (Amy Schumer) band member boyfriend breaks up with her, she moves back in with 
 her mother (Goldie Hawn). In hopes to cheer her up the two plan a vacation to the tropics. Though
-their adventure goes awry when the pair are kinapped by traffickers and must now try and make 
+their adventure goes awry when the pair are kidnapped by traffickers and must now try and make 
 their escape back to freedom.
 
 **Starring:** Amy Schumer, Goldie Hawn, Kim Caramele
@@ -142,7 +141,7 @@ their escape back to freedom.
 
 **Run Time:** 1hr 30min
 
-**MPAA Rating:** Rated R; Crude Sexual Conent, Brief Nudity, and Adult language.
+**MPAA Rating:** Rated R; Crude Sexual Content, Brief Nudity, & Adult language.
 
 Check out the trailer for `Snatched`_!
 
@@ -150,15 +149,15 @@ Check out the trailer for `Snatched`_!
 
 **If you like Snatched you may also like:**
 
-* Bridesmaids
-* Baywatch
-* The House
+* *Bridesmaids*
+* *Baywatch*
+* *The House*
 
 .. _Transformers:
 
 Transformers: The Last Knight
 -----------------------------
-.. image:: /images/transformers_last_knight.jpg
+.. image:: images/transformers_last_knight.jpg
     :width: 50%
 
 Description:
@@ -174,7 +173,7 @@ revealed, with there still be time to save the earth from total destruction?
 
 **Run Time:** 2hr 35min
 
-**MPAA Rating:** Rated PG-13; Violence, Intense Actions, Adult Language, and some Innuendo.
+**MPAA Rating:** Rated PG-13; Violence, Intense Actions, Adult Language, & some Innuendo.
 
 Check out the trailer for `Transformers the Last Knight`_!
 
@@ -182,6 +181,6 @@ Check out the trailer for `Transformers the Last Knight`_!
 
 **If you like Transformers: The Last Knight you may also like:**
 
-* Pirates of the Caribbean: Dead Men Tell No Tales
-* The Mummy
-* Spider-man: Homecoming
+* *Pirates of the Caribbean: Dead Men Tell No Tales*
+* *The Mummy*
+* *Spider-man: Homecoming*

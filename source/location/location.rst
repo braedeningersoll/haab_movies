@@ -1,5 +1,5 @@
 Location
-===========
+========
 
 HAAB Movies is located at 116 E Ashland Ave, Indianola, IA 50125.
 We also have two locations in Des Moines Iowa. These two locations
@@ -10,7 +10,7 @@ to see. We say "Nothing makes us happier than seeing people smile when
 they leave our store". 
 
 
-.. figure:: images/store.jpg
+.. image:: images/store.jpg
     :width: 50%
 
 
@@ -23,10 +23,10 @@ Owned by                          ``Addie Brewer, Angela Dolecheck, Holly Tran, 
 ===============================  =======================================================================
 
 
-Here is a link to our `Location`_ !
-
+Here is a link to our `Location`_!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. _Location: https://www.google.com/maps/place/116+E+Ashland+Ave,+Indianola,+IA+50125/@41.3616115,-93.5623026,17z/data=!3m1!4b1!4m5!3m4!1s0x87eeb040b3e4dd73:0x612e91e4fa6c8a6e!8m2!3d41.3616115!4d-93.5601139
-~~~~~~~~~~~~~~~~~~
+
 
 HAAB movies is currently looking for new employees to fit our needs.
 Just call *319-795-8858* to make a time for an interview or just stop in
@@ -37,5 +37,5 @@ if you can't make your shit due to schoolwork. You can also fill out our applica
 on-line. It is shown at the bottom of this page. 
 
 
-.. figure:: images/application.jpg
+.. image:: images/application.jpg
     :width: 100%

@@ -1,5 +1,5 @@
 Addie's favorites
-=============
+=================
 
 Welcome to my **favorites page**. 
 
@@ -11,7 +11,7 @@ and watch a film without feeling emotionally stressed. Dumb and
 Dumber is the perfect film to watch anytime of the day when you
 want a good laugh.
 
-.. figure:: images/dumb.jpg
+.. image:: images/dumb.jpg
     :width: 50%
 
 
