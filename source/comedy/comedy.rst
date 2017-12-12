@@ -1,5 +1,5 @@
-**Comedies**
-============
+Comedies
+========
 
 Welcome to the comedies page! Here is a list of a few of the top comedy movies of all time.
 
