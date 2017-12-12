@@ -23,7 +23,7 @@ See our selection below:
 Bedtime Stories 
 ---------------
 
-.. image:: /images/bedtime.jpg
+.. image:: images/bedtime.jpg
     :width: 50%
 
 *Description:*

@@ -24,7 +24,7 @@ See our selection below:
 
 Everything, Everything 
 ----------------------
-.. image:: /images/everything.jpg
+.. image:: images/everything.jpg
     :width: 50%
 
 *Description:*

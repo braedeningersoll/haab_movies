@@ -25,7 +25,7 @@ See our Selection below:
 
 Baby Driver
 -----------
-.. image:: /images/baby_driver.jpg
+.. image:: images/baby_driver.jpg
     :width: 50%
 
 Description:
@@ -33,7 +33,7 @@ Description:
 
 When talented driver, Baby (Ansel Elgort), is forced into a string of robberies as the getaway driver, music becomes 
 both his inspiration for his fanatic driving, as well as, his only escape from the shady life he leads. That is until 
-he meets Debora (Lily James), a simple sweet waitress that could be the very key to convincing Baby to fianlly leave 
+he meets Debora (Lily James), a simple sweet waitress that could be the very key to convincing Baby to finally leave 
 his old road behind. 
 
 **Starring:** Ansel Elgort, Kevin Spacey, Lily James, Lily James, Jon Bernthal, Eliza Gonzalez, John Hamm, and Jamie Foxx.
@@ -59,15 +59,15 @@ Check out the trailer for `Baby Driver`_!
 
 **If you like Baby Driver you may also like:**
 
-* Guardians of the Galaxy
-* Scott Pilgrim vs. The World
-* Atomic Blonde
+* *Guardians of the Galaxy*
+* *Scott Pilgrim vs. The World*
+* *Atomic Blonde*
 
 .. _CAWS:
 
 Captain America: The Winter Soldier
 -----------------------------------
-.. image:: /images/captain_america_winter_soldier.jpg
+.. image:: images/captain_america_winter_soldier.jpg
     :width: 50%
 
 Description:
@@ -76,7 +76,7 @@ Description:
 Steve Rogers (Chris Evans), or better known as Captain America, has been an active operative for S.H.I.E.L.D for 
 several years now having lead counter-terrorist Strike teams against threats to the American homeland.  But as Steve 
 begins to question possible hidden agendas coming from command, a ghost from his past arrives in the form of The 
-Winter Soldier, a Hydra Assassain. With Steve's questioning of orders and a mission set up to fail, Captain America 
+Winter Soldier, a Hydra Assassin. With Steve's questioning of orders and a mission set up to fail, Captain America 
 must go rogue battle both friend and foe as a conspiracy unfolds.
 
 **Starring:** Chris Evans, Samuel L. Jackson, Scarlett Johansson
@@ -85,14 +85,14 @@ must go rogue battle both friend and foe as a conspiracy unfolds.
 
 **Run Time:** 2hr 16min
 
-**MPAA Rating:** Rated PG-13; Violence, Gunplay, & action throughout
+**MPAA Rating:** Rated PG-13; Violence, Gunplay, & Action throughout
 
-**HAAB Review:** Marvel has, at the time of this review, 17 films in it's collective universe. Though each of these 
+**HAAB Review:** Marvel has, at the time of this review, 17 films in its collective universe. Though each of these 
 films have been very good both in their content and at the box office, Winter Soldier is a gem among the entire 
-universe. The film brings the same incredible action, acting, and story as your standar Marvel film, but where Winter
+universe. The film brings the same incredible action, acting, and story as your standard Marvel film, but where Winter
 Soldier stands apart is that it stands as a turning point for Marvel's storytelling. Up until this film each movie has
 simply been a fun action flick about our heros, but Winter Soldier breaks form by bringing social and political issues
-to the silverscreen and ask their audiences to think about our own world. !!SPOILER ALERT!! The political issue 
+to the silver screen and ask their audiences to think about our own world. !!SPOILER ALERT!! The political issue 
 discussed in the film is the debate of security vs privacy. In the MCEU the United States has approved the creation 
 of a project to monitor citizens and by using an algorithm can detect terrorist or enemies of the state before they 
 can strike. This is not unlike the Patriot Act's approval of NSA monitoring over internet activity and cellular calls
@@ -100,21 +100,21 @@ made by Americans. Regardless on your stance of this issue the film does an exce
 issues with sacrificing our privacy for "enhanced security." If you see no other Marvel film, which would be a mistake
 in itself, then make sure you see Captain America: The Winter Soldier.
 
-Check out the trailer for `Captain America The Winter Soldier`_ !
+Check out the trailer for `Captain America The Winter Soldier`_!
 
 .. _Captain America The Winter Soldier: https://www.youtube.com/watch?v=7SlILk2WMTI
 
 **If you like Captain America: The Winter Soldier you may also like:**
 
-* Marvel's The Avengers
-* Captain America: Civil War
-* Valkyrie
+* *Marvel's The Avengers*
+* *Captain America: Civil War*
+* *Valkyrie*
 
 .. _OtherGuys:
 
 The Other Guys
 --------------
-.. image:: /images/the_other_guys.jpg 
+.. image:: images/the_other_guys.jpg 
     :width: 50%
 
 Description:
@@ -131,38 +131,38 @@ underdog pair in hopes to replace the shoes of the recently deceased head detect
 
 **Run Time:** 1hr 47min
 
-**MPAA Rating:** Rated PG-13; Crude & Sexual Content, Adult language, Violence, & some Drug Matieral
+**MPAA Rating:** Rated PG-13; Crude & Sexual Content, Adult language, Violence, & some Drug Material
 
-**HAAB Review:** Will Ferrell comedies are always a good time, especially if you enjoy ridiculuous situational humor. 
-The Other Guys is chaulk full of great quotes that will have you making references with you and your friends for 
+**HAAB Review:** Will Ferrell comedies are always a good time, especially if you enjoy ridiculous situational humor. 
+The Other Guys is chock full of great quotes that will have you making references with you and your friends for 
 years. The banter and chemistry between Ferrell and Wahlberg is fantastic as they feed off each other with hilarious 
-results. Likely why these two have ventured off an done more comeies together after The Other Guys. What makes this 
-film even more incredible is the star studded cast outside of our main characters. Also feature in the film is Samuel 
+results. Likely why these two have ventured off and done more comedies together after The Other Guys. What makes this 
+film even more incredible is the star-studded cast outside of our main characters. Also feature in the film is Samuel 
 L. Jackson, Dwayne Johnson, Michael Keaton, and even Derek Jeter (Yes, the Yankees Shortstop). If you have a night in 
 with friends or looking for just a movie that will have you howling, then the Other Guys is an excellent choice. 
 
-Check out the trailer for `The Other Guys`_ !
+Check out the trailer for `The Other Guys`_!
 
 .. _The Other Guys: https://www.youtube.com/watch?v=D6WOoUG1eNo
 
 **If you like The Other Guys you may also like:**
 
-* Anchorman
-* Daddy's Home
-* Step-Brothers
+* *Anchorman*
+* *Daddy's Home*
+* *Step-Brothers*
 
 .. _12AngryMen:
 
 12 Angry Men
 ------------
-.. image:: /images/twelve_angry_men.jpg 
+.. image:: images/twelve_angry_men.jpg 
     :width: 50%
 
 Description:
 ~~~~~~~~~~~~
 
 In the case of a murder trial, the 12 men that form the jury enter their deliberations with their decision made, 
-except for one individual who has doubts. A guilty verdict will carry a death sentence for the accussed but acquiting 
+except for one individual who has doubts. A guilty verdict will carry a death sentence for the accused but acquitting 
 him could be letting a murder back into the world. With the weight of their decision, the frustration of their free 
 time lost to the trial, and the thick summer heat, these men are at each other's throats as they argue back to 
 determine the future of a young man on trial.
@@ -182,12 +182,12 @@ Fonda plays Juror #8, the lone juror that has doubts, and expresses his opinions
 fellow jurors that slowly begin to have doubts of their own. I won't spoil the ending here but it is an incredible 
 display of human nature and the importance of our jury system in the American Justice System.
 
-Check out the trailer for `12 Angry Men`_ !
+Check out the trailer for `12 Angry Men`_!
 
 .. _12 Angry Men: https://www.youtube.com/watch?v=A7CBKT0PWFA
 
 **If you like 12 Angry men you may also like:**
 
-* Citizen Kane
-* Once Upon a Time in the West
-* Psycho
+* *Citizen Kane*
+* *Once Upon a Time in the West*
+* *Psycho*

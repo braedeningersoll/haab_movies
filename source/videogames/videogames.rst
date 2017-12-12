@@ -33,9 +33,9 @@ provides it all.
 .. _mario:
 
 Mario Kart 8 Deluxe
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
 
-.. figure:: images/mario.jpg
+.. image:: images/mario.jpg
     :width: 50%
 
 *Description:*
@@ -53,9 +53,9 @@ Dry Bones, Bowser Jr. and Inkling Girl.
 .. _knack:
 
 Knack 
-~~~~~~~~
+~~~~~
 
-.. figure:: images/knack.jpg
+.. image:: images/knack.jpg
     :width: 50%
 
 *Description:*
@@ -72,9 +72,9 @@ from a species known as the Goblins.
 .. _dis:
 
 Dishonored - Death of the Outsider
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. figure:: images/dishonored.jpg
+.. image:: images/dishonored.jpg
     :width: 50%
 
 *Description:*
@@ -92,9 +92,9 @@ shadow clone.
 .. _dead:
 
 Dead Alliance
-~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
 
-.. figure:: images/dead.jpg
+.. image:: images/dead.jpg
     :width: 50%
 
 

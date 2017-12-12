@@ -10,27 +10,20 @@ Welcome to HAAB Movies's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   about
-   action
-   angelapicks
-   braedens_favorites
-   comedy
-   contact
-   favorites
-   holiday
-   hollys_faves
-   horror
-   kids
-   location
-   new_releases
-   prices
-   romance
-   teen
-   videogames
-
-
-
-
-
-
-
+   about/about
+   addies_favorites/addies_favorites
+   action/action
+   angelapicks/angelapicks
+   braedens_favorites/braedens_favorites
+   comedy/comedy
+   contact/contact
+   holiday/holiday
+   hollys_faves/hollys_faves
+   horror/horror
+   kids/kids
+   location/location
+   new_releases/new_releases
+   prices/prices
+   romance/romance
+   teen/teen
+   videogames/videogames
