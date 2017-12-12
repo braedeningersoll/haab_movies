@@ -11,7 +11,7 @@ and watch a film without feeling emotionally stressed. Dumb and
 Dumber is the perfect film to watch anytime of the day when you
 want a good laugh.
 
-.. image:: images/dumb.jpg
+.. figure:: images/dumb.jpg
     :width: 50%
 
 
