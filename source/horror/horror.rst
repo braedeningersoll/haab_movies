@@ -22,7 +22,7 @@ See our selection below:
 
 Get Out 
 -------
-.. image:: /images/getout.jpg
+.. image:: images/getout.jpg
     :width: 40%
 
 Description:
@@ -58,7 +58,7 @@ Check out the trailer for `Get Out`_
 
 Alien: Covenant
 ---------------
-.. image:: /images/alien.jpg
+.. image:: images/alien.jpg
     :width: 40%
 
 Description:
@@ -94,7 +94,7 @@ Check out the trailer for `Alien Covenant`_
 
 Rings
 -----
-.. image:: /images/rings.jpg
+.. image:: images/rings.jpg
     :width: 40%
 
 Description:

@@ -21,7 +21,7 @@ See her selection below:
 
 Zootopia 
 --------
-.. image:: /images/zootopia.jpg
+.. image:: images/zootopia.jpg
     :width: 40%
 
 Description:
@@ -65,7 +65,7 @@ Check out the trailer for `Zootopia`_
 
 Howl's Moving Castle
 --------------------
-.. image:: /images/howl.jpg
+.. image:: images/howl.jpg
     :width: 40%
 
 Description:
@@ -114,7 +114,7 @@ Check out the trailer for `Howls Moving Castle`_
 
 Guardians of the Galaxy Vol. 2 
 ------------------------------
-.. image:: /images/guardians2.jpg
+.. image:: images/guardians2.jpg
     :width: 40%
 
 Description:

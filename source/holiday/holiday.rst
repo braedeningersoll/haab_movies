@@ -22,7 +22,7 @@ See our selection below:
 
 How The Grinch Stole Christmas
 ------------------------------
-.. image:: /images/grinch.jpg
+.. image:: images/grinch.jpg
     :width: 30%
 
 Description:
@@ -58,7 +58,7 @@ Check out the trailer for `How The Grinch Stole Christmas`_
 
 The Nightmare Before Christmas
 ------------------------------
-.. image:: /images/nightmare.jpg
+.. image:: images/nightmare.jpg
     :width: 30%
 
 Description:
@@ -94,7 +94,7 @@ Check out the trailer for `The Nightmare Before Christmas`_
 
 elf
 ---
-.. image:: /images/elf.jpg
+.. image:: images/elf.jpg
     :width: 30%
 
 Description:
