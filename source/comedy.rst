@@ -1,7 +1,7 @@
 **Comedies**
 ============
 
-Welcome to the comedies page! Here is a list of a few of the top comedy movies of all tim.e 
+Welcome to the comedies page! Here is a list of a few of the top comedy movies of all time.
 
 
 * Monty Python and the Holy Grail
@@ -36,7 +36,7 @@ Crash Pad
 
 *Description:*
 ~~~~~~~~~~~~~~
-In Crash Pad, a younger man think that he is in love with an older woman. 
+In Crash Pad, a younger man thinks that he is in love with an older woman. 
 They had a romantic relationship but to his surprise, the older woman is married!
 She was only romantic with him to get revenge on her husband. The husband decides that the
 best way for him to get over his cheating wife is to cut her out of his life and move in with 
@@ -65,7 +65,7 @@ Despicable Me 3
 *Description:*
 ~~~~~~~~~~~~~~
 In Despicable Me 3, Gru is fired from the Anti-Villain League for not taking down the most recent bad guy.
-Gru is very sad and upset until he meets a stranger who tell him that he has a long-lost twin brother
+Gru is very sad and upset until he meets a stranger who tells him that he has a long-lost twin brother
 who wants to follow in Gru's footsteps and become a super villain. Gru and his brother team up to steal the 
 largest diamond in the world. 
 
@@ -96,8 +96,8 @@ Literally, Right Before Aaron
 
 Adam has just broken up with his girlfriend and he is devastated when he finds
 out that his ex is engaged. To make things even worse, he gets invited to the wedding. Adam
-still has feeling for his ex but at the wedding, he has to try and convince everyone that he 
-doesn't have feelings for her anymore. When he is home he discovered the hard truth of love 
+still has feelings for his ex but at the wedding, he has to try and convince everyone that he 
+doesn't have feelings for her anymore. When he is home, he discovers the hard truth of love 
 and life. 
 
 **Starring:** Cobie Smulders, Justin Long, Dana Delany, Kristen Schaal, and Ryan Hansen. 
@@ -124,7 +124,7 @@ Logan Lucky
 In Logan Lucky, Jimmy got fired from his job and convinces his brother and sister
 to help him rob the Charlotte Motor Speedway during a NASCAR race. To do this, they need
 help from one of their friends who is in prison. The Logan family always seems to have
-things go wrong so this will be an adventure. 
+things go wrong so this will definitely be an adventure. 
 
 **Starring:** Daniel Craig, Channing Tatum, Adam Driver, Riley Keough, and Seth MacFarlane.
 

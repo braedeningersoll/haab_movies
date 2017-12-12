@@ -1,13 +1,12 @@
 Location
 ===========
 
-HAAB Movies is located in 116 E Ashland Ave, Indianola, IA 50125.
+HAAB Movies is located at 116 E Ashland Ave, Indianola, IA 50125.
 We also have two locations in Des Moines Iowa. These two locations
-are: 3220 SE 14th St, Des Moines, IA 50320 and  2301 E 42nd St, Des Moines, IA 50317.
-We were created in 1999 by Mr. and Mrs. HAAB. Mr. and Mrs. HAAB have always loved 
-movies and loved taking their children to go see movies. They decided to quit their
-jobs and form HAAB Movie Rental. Now they can provide movies for people of all ages
-to see. Mr. and Mrs. HAAB say "Nothing makes me happier than seeing people smile when
+are: 3220 SE 14th St, Des Moines, IA 50320 and 2301 E 42nd St, Des Moines, IA 50317.
+We were created in 2017 by Addie Brewer, Angela Dolecheck, Holly Tran, and Braeden Ingersoll.
+They decided to drop out of college and form HAAB Movie Rental. Now they can provide movies for people of all ages
+to see. We say "Nothing makes us happier than seeing people smile when
 they leave our store". 
 
 
@@ -15,15 +14,18 @@ they leave our store".
     :width: 50%
 
 
-===============================  =================================
+===============================  =======================================================================
 Indianola Location                HAAB Movies             
-===============================  =================================
+===============================  =======================================================================
 Hours                             ``Open Everyday 8 am-12 am``
 Located in                        ``116 E Ashland Ave``
-Owned by                          ``Mr. and Mrs. HAAB``
-===============================  =================================
+Owned by                          ``Addie Brewer, Angela Dolecheck, Holly Tran, and Braeden Ingersoll``
+===============================  =======================================================================
 
-Job Opportunities
+
+Here is a link to our `Location`_ !
+
+.. _Location: https://www.google.com/maps/place/116+E+Ashland+Ave,+Indianola,+IA+50125/@41.3616115,-93.5623026,17z/data=!3m1!4b1!4m5!3m4!1s0x87eeb040b3e4dd73:0x612e91e4fa6c8a6e!8m2!3d41.3616115!4d-93.5601139
 ~~~~~~~~~~~~~~~~~~
 
 HAAB movies is currently looking for new employees to fit our needs.

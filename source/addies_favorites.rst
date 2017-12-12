@@ -4,8 +4,8 @@ Addie's favorites
 Welcome to my **favorites page**. 
 
 There have been many movies out this past year but few have been 
-good enough to see in my opinion. 2017 did not come out with any 
-films that are my new favorite. My forever favorite film will be
+good enough to see in my opinion. 2017 did not come out with any worth
+while films in my opinion. My forever favorite film will be
 Dumb and Dumber. I prefer simple comedy. I like to just sit back
 and watch a film without feeling emotionally stressed. Dumb and 
 Dumber is the perfect film to watch anytime of the day when you
@@ -19,7 +19,7 @@ want a good laugh.
 head. Lloyd is a limo driver and one of his clients, Mary, leaves
 her suitcase in the airport. Lloyd grabs her suitcase and chases 
 after her but he is too late. He decides that him and his best 
-friend Harry will set out to Aspen to deliver the suitcase back
+friend, Harry, will set out to Aspen to deliver the suitcase back
 to her personally. Along the way, they have a crazy cross country
 trip from Providence to Aspen, Colorado. 
 
@@ -52,7 +52,7 @@ Here is the trailer for the movie `Dumb and Dumber`_
 
 Jim Carrey and Jeff Daniels make a hilarious combination. They work well together
 and made a fantastic movie. In my opinion, it's the best comedy of all time. 
-My friends, family and I all quote Dumb and Dumber all of the time. To me, being
+My friends, family, and I all quote Dumb and Dumber all of the time. To me, being
 able to quote something funny from a movie and having the other person understand 
 what I am referencing makes the movie that much better. While the first Dumb and Dumber
 will forever be a classic film, the second Dumb and Dumber was a huge disappointment.
