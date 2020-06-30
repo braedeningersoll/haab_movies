@@ -67,7 +67,7 @@ Description:
 A colony ship of more than 2,000 set out on an expedition to a remote planet, 
 but things go wrong once they discover this uncharted land. The humans are faced
 with monsters they have never seen before and this expedition trip ends up being
-a rescue mission as they try to escape the terrifying unkown.
+a rescue mission as they try to escape the terrifying unknown.
 
 
 **Starring:** *Michael Fassbender, Katherine Waterston, Billy Crudup, and Danny 

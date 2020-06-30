@@ -51,7 +51,7 @@ tightening performance in the film's second act which more than makes up for Ans
 Elgort does, however, create a fleshed out Baby that is very human in his flaws though admirable in character. 
 If you need one single reason to see this film then look no further than the soundtrack. The score is comprised of 
 classic tunes and incredible remixes that make the film simply fun to listen to. The opening sequence of the film 
-combines this energetic score with artistic cinematography that evereyone should have the chance to see! 
+combines this energetic score with artistic cinematography that everyone should have the chance to see! 
 
 Check out the trailer for `Baby Driver`_!
 

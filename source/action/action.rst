@@ -160,7 +160,7 @@ Saving Private Ryan
 Description:
 ~~~~~~~~~~~~
 
-Based of an increible true story, following the events of D-Day: Normany, a young soldier has earned the right to go 
+Based of an incredible true story, following the events of D-Day: Normany, a young soldier has earned the right to go 
 home under the Sole Survivor Policy after losing his brothers in the war. Captain Miller (Tom Hanks), has been 
 assigned to track down and find Private Ryan (Matt Damon) and bring him home despite the waging war surrounding them 
 all.
